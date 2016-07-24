@@ -10,21 +10,21 @@
 
 \GroupIDtrue % comment if no group ID
 
-\ResultDiscusstrue % comment to disable results and discussions
+%\ResultDiscusstrue % comment to disable results and discussions
 
-\Conctrue % comment to disable conclusions
+%\Conctrue % comment to disable conclusions
 
 \Finishedtrue % comment only if you will not be printing your manuscript prior to final hard binding, i.e. you are not told by your thesis adviser that you have passed, and you have no submitted the requirements
 
 %\Gradtrue % comment to disable graduate school format
 
-\PhDtrue % comment to disable PhD dissertation format
+%\PhDtrue % comment to disable PhD dissertation format
 
-\PubListtrue % comment to disable publication list
+%\PubListtrue % comment to disable publication list
 
-\Vitatrue % comment to disable author(s) vita
+%\Vitatrue % comment to disable author(s) vita
 
-\Indextrue % comment to disable index 
+%\Indextrue % comment to disable index 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % document IDs
@@ -98,15 +98,15 @@
 \includeonly{
 introduction,
 literature_review,
-%theoretical_considerations,
-%design_considerations,
-%methodology,
+theoretical_considerations,
+design_considerations,
+methodology,
 %results_and_discussion,
 %conclusions,
-answers_to_questions,
-usage_examples,
-publication,
-vita,
+%answers_to_questions,
+%usage_examples,
+%publication,
+%vita,
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -192,64 +192,63 @@ vita,
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%\chapter{Theoretical Considerations}
-%\chaptermark{Theoretical Considerations} % uncomment this and put a shorter version of the chapter title for the TOC and chapter markings (i.e., header or footer)
-%\label{ch:theorycon}
-%\startcontents[chapters]
-%\begin{SingleSpace}	
-%	\Mprintcontents 
-%\end{SingleSpace}
-%\include{theoretical_considerations}
-%\stopcontents[chapters]
-%\cleardoublepage
+\chapter{Theoretical Considerations}
+\chaptermark{Theoretical Considerations} % uncomment this and put a shorter version of the chapter title for the TOC and chapter markings (i.e., header or footer)
+\label{ch:theorycon}
+\startcontents[chapters]
+\begin{SingleSpace}	
+	\Mprintcontents 
+\end{SingleSpace}
+\include{theoretical_considerations}
+\stopcontents[chapters]
+\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\chapter{Design Considerations} 
-%\label{ch:designcon} 
-%\startcontents[chapters]
-%\begin{SingleSpace}	
-%	\Mprintcontents 
-%\end{SingleSpace}
-%\include{design_considerations}
-%\stopcontents[chapters]
-%\cleardoublepage
+\chapter{Design Considerations} 
+\label{ch:designcon} 
+\startcontents[chapters]
+\begin{SingleSpace}	
+	\Mprintcontents 
+\end{SingleSpace}
+\include{design_considerations}
+\stopcontents[chapters]
+\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\chapter{Methodology} 
-%\label{ch:method} 
-%\startcontents[chapters]
-%\begin{SingleSpace}	
-%	\Mprintcontents 
-%\end{SingleSpace}
-%\include{methodology}
-%\stopcontents[chapters]
-%\cleardoublepage
+\chapter{Methodology} 
+\label{ch:method} 
+\startcontents[chapters]
+\begin{SingleSpace}	
+	\Mprintcontents 
+\end{SingleSpace}
+\include{methodology}
+\stopcontents[chapters]
+\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\ifResultDiscuss 
-%	\chapter{Results and Discussion} 
-%	\label{ch:result_discuss} 
-%	\startcontents[chapters]
-%	\begin{SingleSpace}	
-%		\Mprintcontents 
-%	\end{SingleSpace}
-%	\include{results_and_discussion}
-%	\stopcontents[chapters]
-%	\cleardoublepage
-%\fi
-
+\ifResultDiscuss 
+	\chapter{Results and Discussion} 
+	\label{ch:result_discuss} 
+	\startcontents[chapters]
+	\begin{SingleSpace}	
+		\Mprintcontents 
+	\end{SingleSpace}
+	\include{results_and_discussion}
+	\stopcontents[chapters]
+	\cleardoublepage
+\fi
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\ifConc
-%	\chapter{Conclusions, Recommendations, and Future Directives} 
-%	\label{ch:conc} 
-%	\startcontents[chapters]
-%	\begin{SingleSpace}	
-%		\Mprintcontents 
-%	\end{SingleSpace}
-%	\include{conclusions}
-%	\stopcontents[chapters]
-%	\cleardoublepage
-%\fi
+\ifConc
+	\chapter{Conclusions, Recommendations, and Future Directives} 
+	\label{ch:conc} 
+	\startcontents[chapters]
+	\begin{SingleSpace}	
+		\Mprintcontents 
+	\end{SingleSpace}
+	\include{conclusions}
+	\stopcontents[chapters]
+	\cleardoublepage
+\fi
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \renewcommand{\UrlFont}{\normalfont}
@@ -272,7 +271,7 @@ Produced: \usdate\today, \currenttime \\
 \appto\appendix{\renewcommand\thechapter{\AlphAlph{\value{chapter}}}} % for increasing appendix chapters beyond Z, i.e. AA, AB, etc.
 \chapter{Answers to Questions to this \documentType}
 \startcontents[chapters]
-\Mprintcontents 
+%\Mprintcontents 
 \include{answers_to_questions}
 \stopcontents[chapters]
 \cleardoublepage
@@ -280,10 +279,10 @@ Produced: \usdate\today, \currenttime \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Usage Examples} 
 \label{ch:usage_examples}
-% \startcontents[chapters]
-% \Mprintcontents  
+ \startcontents[chapters]
+ \Mprintcontents  
 \include{usage_examples}
-% \stopcontents[chapters]
+ \stopcontents[chapters]
 \cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
