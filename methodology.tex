@@ -1,13 +1,15 @@
 \section{Implementation}
-
-\Blindtext
-
-
-
+The project governed the interfacing of computer vision for a robot system’s navigation. This proposed system was conditioned to navigate on dry land terrains at daytime. Further, certain considerations were taken as per testing. The land area for corn plantation had been downscaled to a 60-inches by 20-inches (by a factor of 1/65th length-wise and 1/197th width-wise) plant box for conduciveness of the study. Such downscaling managed to model two cornrows which was enough to attempt the turning control of the robot system. Made out of cardboard boxes lined with garbage bags (for water-proofing), the box frame was filled with loam soil: pre-plowed with two-inches deep as irrigation lines, and pre-holed, five-inches apart.
+	Proceeding, the mechanism produced for this study was a mechanically-driven sower machine; independent of any device to operate. Its cost-effectiveness and no electrical power usage made it easier to consider isolating the battery supply of the system for the chassis itself. The proposed sower machine was made of a used compact disc fitted inside an ordinary funnel. The disc was holed as exit points for the seeds that were fed through the narrowed end of the funnel. Prior to the feeding of the corn seeds into the funnel, the seeds were soaked overnight as preconditioning for the following day’s planting. The feature of this model was that it all depended on the rolling motion it made as the robot navigated. Hence, the robot system dragged the sower machine as it proceeded forward. Finally, a paddle was added behind the seeding machine in order to refill the hole with soil.
+	Mentioning that the land was pre-holed, this was due to the algorithm implemented with the system that required marking points as references for its calculation. These holes were fitted with flags to indicate the needed references. The whole system had been under the implementation of a Raspberry Pi 3 Model B SBC microprocessor unit with Raspberry Pi Camera V2 Video Module as its vision peripheral. With these systems, interfaced and connected to a tank chassis with two motors rated at 0.5A and 6V each; back wheels connected directly to the motor, leaving the front wheels as free wheels. Supplied by two batteries (one per motor) rated at 5.7V with 5780mA current delivery each.
 \section{Evaluation}
-
-\Blindtext
-
-
-
+The robot system was expected to plant 11 holes in 1.286 minutes per row. With these benchmarks scaled from a 100-meter-by-100-meter land area with eight persons to labor the whole field, the system relatively delivered to emulate the benchmarked performance. With three seeds to be planted per hole set for twenty trials, the gathered data managed to reach an observable consistency during the 11th trial onwards. With the amount of seeds and time taken to finish the whole course taken as the observed variables, the factors affecting the prior trials had been the following:
+\begin{itemize}
+\item {Misaligned seeding machine}
+\item {Stillness or non-rotation of the seeding machine}
+\item {Wrong dispensing of seeds (with less than 3 seeds)}
+\item {Positioning of the chassis in-line with the irrigation line}
+\item {Unlevelled land area where the belt wheel got jammed}
+\end{itemize}
 \section{Summary}
+	In a nutshell, the whole study was a downscale simulation of a corn field plantation seen in the Philippines. With a system made out of Raspberry Pi system and a homemade seeding mechanism, the system was set to plant three corn seeds in an 11-hole cornrows in under a minute. Through the implementation of a computer vision algorithm to navigate the whole system across the field, the study delivered pleasing results.

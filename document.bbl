@@ -1,15 +1,23 @@
 \begin{thebibliography}{}
 
-\bibitem[{ISO}, 2009]{ISO800002}
-{ISO} (2009).
-\newblock 80000-2.
-\newblock {\em Quantities and units--Part 2: Mathematical signs and symbols to
-  be used in the natural sciences and technology}.
+\bibitem[Cisco, ]{cisco}
+Cisco.
+\newblock Ip addressing guide.
 
-\bibitem[Oetiker et~al., 2014]{Oetiker2014}
-Oetiker, T., Partl, H., Hyna, I., and Schlegl, E. (2014).
-\newblock {\em The Not So Short Introduction to \LaTeXe Or \LaTeXe in 157
-  minutes}.
-\newblock n.a.
+\bibitem[Edan et~al., ]{Edan}
+Edan, Y., Henten, E.~v., and Tuijl, B.~v.
+\newblock Agricultural robotics.
+
+\bibitem[RaspberryPiFoundation, a]{camers}
+RaspberryPiFoundation.
+\newblock Getting started with picamera.
+
+\bibitem[RaspberryPiFoundation, b]{vnc}
+RaspberryPiFoundation.
+\newblock Virtual network computing.
+
+\bibitem[RaspberryPiFoundation, c]{vid}
+RaspberryPiFoundation.
+\newblock What is raspberry pi?
 
 \end{thebibliography}

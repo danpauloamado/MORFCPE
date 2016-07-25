@@ -5,6 +5,20 @@ A level-1 auxiliary file: theoretical_considerations.aux
 A level-1 auxiliary file: design_considerations.aux
 A level-1 auxiliary file: methodology.aux
 The style file: apalike.bst
-A level-1 auxiliary file: answers_to_questions.aux
-A level-1 auxiliary file: usage_examples.aux
 Database file #1: references.bib
+Warning--entry type for "camers" isn't style-file defined
+--line 3 of file references.bib
+Warning--entry type for "cisco" isn't style-file defined
+--line 10 of file references.bib
+Warning--entry type for "Edan" isn't style-file defined
+--line 17 of file references.bib
+Warning--entry type for "vid" isn't style-file defined
+--line 53 of file references.bib
+Warning--entry type for "vnc" isn't style-file defined
+--line 60 of file references.bib
+Warning--empty year in cisco
+Warning--empty year in Edan
+Warning--empty year in camers
+Warning--empty year in vnc
+Warning--empty year in vid
+(There were 10 warnings)

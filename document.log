@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.12)  25 JUL 2016 04:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.12)  25 JUL 2016 14:08
 entering extended mode
 **./document.tex
 (document.tex
@@ -1640,8 +1640,7 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 
 ("C:\Users\DanPaulo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geomet
 ry.cfg"))) (document.aux (introduction.aux) (literature_review.aux)
-(theoretical_considerations.aux) (design_considerations.aux) (methodology.aux)
-(answers_to_questions.aux) (usage_examples.aux))
+(theoretical_considerations.aux) (design_considerations.aux) (methodology.aux))
 \openout1 = `document.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
@@ -1760,7 +1759,7 @@ LaTeX Info: Redefining \nameref on input line 113.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (format/pre_toc.ltx
-<figure/../format/DLSU_Logo.png, id=158, 158.994pt x 158.994pt>
+<figure/../format/DLSU_Logo.png, id=150, 158.994pt x 158.994pt>
 File: figure/../format/DLSU_Logo.png Graphic file (type png)
 
 <use figure/../format/DLSU_Logo.png>
@@ -1795,7 +1794,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 159--163
  []
 
 
-<figure/../format/dlsu_thesis_paper_letterhead.pdf, id=168, 614.295pt x 794.97p
+<figure/../format/dlsu_thesis_paper_letterhead.pdf, id=160, 614.295pt x 794.97p
 t>
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
@@ -1897,109 +1896,7 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  [6
 
 
-]) (document.toc
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 26.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [7
-
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 56.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [8])
-\tf@toc=\write9
-\openout9 = `document.toc'.
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 123.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [9] (document.lof)
-\tf@lof=\write10
-\openout10 = `document.lof'.
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 127.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [10
-
-] (document.lot)
-\tf@lot=\write11
-\openout11 = `document.lot'.
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 131.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [11
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 140.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [12
-
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 153.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [13
-
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 162.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [14
-
-
-] (document.lol)
-\tf@lol=\write12
-\openout12 = `document.lol'.
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 166.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [15
-
-]
+])
 \c@ttl@toc@chapters=\count402
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 175.
@@ -2014,6 +1911,7 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 177.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [1
+
 
 
 ]
@@ -2319,7 +2217,7 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 38.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [17]
-<figure/control.jpg, id=585, 393.72093pt x 271.76532pt>
+<figure/control.jpg, id=278, 393.72093pt x 271.76532pt>
 File: figure/control.jpg Graphic file (type jpg)
 
 <use figure/control.jpg>
@@ -2332,7 +2230,7 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
 
-<figure/elemen.jpg, id=587, 411.78844pt x 414.04688pt>
+<figure/elemen.jpg, id=280, 411.78844pt x 414.04688pt>
 File: figure/elemen.jpg Graphic file (type jpg)
  <use figure/elemen.jpg>
 Package pdftex.def Info: figure/elemen.jpg used on input line 50.
@@ -2353,7 +2251,7 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 56.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [18 <./figure/control.jpg>] <figure/digit.jpg, id=593, 300.3722pt x 121.20282p
+ [18 <./figure/control.jpg>] <figure/digit.jpg, id=289, 300.3722pt x 121.20282p
 t>
 File: figure/digit.jpg Graphic file (type jpg)
 
@@ -2403,56 +2301,157 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
 
 
 (theoretical_considerations.tex
+<figure/robot.png, id=317, 663.98062pt x 927.465pt>
+File: figure/robot.png Graphic file (type png)
+ <use figure/robot.png>
+Package pdftex.def Info: figure/robot.png used on input line 7.
+(pdftex.def)             Requested size: 180.67499pt x 252.37187pt.
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 2.
+ on input line 15.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [23
 
-]
-<example.pdf, id=616, 614.295pt x 794.97pt>
-File: example.pdf Graphic file (type pdf)
- <use example.pdf>
-Package pdftex.def Info: example.pdf used on input line 5.
-(pdftex.def)             Requested size: 214.67604pt x 277.8191pt.
+ <./figure/robot.png>]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 31.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [24]
+! Missing } inserted.
+<inserted text> 
+                }
+l.32 \end{itemize}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+<figure/display.png, id=335, 246.1697pt x 324.46219pt>
+File: figure/display.png Graphic file (type png)
+
+<use figure/display.png>
+Package pdftex.def Info: figure/display.png used on input line 38.
+(pdftex.def)             Requested size: 180.67499pt x 238.1476pt.
+
+<figure/camera.png, id=336, 353.82187pt x 331.99031pt>
+File: figure/camera.png Graphic file (type png)
+ <use figure/camera.png>
+Package pdftex.def Info: figure/camera.png used on input line 45.
+(pdftex.def)             Requested size: 180.67499pt x 169.53064pt.
+
+<figure/gpioexpansion.png, id=337, 562.35094pt x 324.46219pt>
+File: figure/gpioexpansion.png Graphic file (type png)
+
+<use figure/gpioexpansion.png>
+Package pdftex.def Info: figure/gpioexpansion.png used on input line 52.
+(pdftex.def)             Requested size: 180.67499pt x 104.24588pt.
+
+<figure/powerin.png, id=338, 571.38469pt x 362.85562pt>
+File: figure/powerin.png Graphic file (type png)
+
+<use figure/powerin.png>
+Package pdftex.def Info: figure/powerin.png used on input line 59.
+(pdftex.def)             Requested size: 180.67499pt x 114.73752pt.
+ <figure/run.png, id=339, 569.12625pt x 360.59718pt>
+File: figure/run.png Graphic file (type png)
+
+<use figure/run.png>
+Package pdftex.def Info: figure/run.png used on input line 66.
+(pdftex.def)             Requested size: 180.67499pt x 114.47456pt.
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 74.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+
+[25 <./figure/display.png>]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 74.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [26 <./figure/camera.png> <./figure/gpioexpansion.png> <./figure/powerin.png>]
+
+<figure/code.png, id=360, 192.72pt x 133.24782pt>
+File: figure/code.png Graphic file (type png)
+ <use figure/code.png>
+Package pdftex.def Info: figure/code.png used on input line 77.
+(pdftex.def)             Requested size: 192.71951pt x 133.24748pt.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   !
+l.85 ... :1 -geometry 1920x1080 -depth 24 -dpi 96}
+                                                   is to be created. By inpu...
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@b.
+<to be read again> 
+                   }
+l.85 ... :1 -geometry 1920x1080 -depth 24 -dpi 96}
+                                                   is to be created. By inpu...
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.85 ... :1 -geometry 1920x1080 -depth 24 -dpi 96}
+                                                   is to be created. By inpu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 87.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [27 <./figure/run.png> <./figure/code.png>]
+Missing character: There is no ‚ in font ptmro7t!
+Missing character: There is no Ä in font ptmro7t!
+Missing character: There is no ì in font ptmro7t!
 )
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 202.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [24]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 202.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [25 <C:/Users/DanPaulo/AppData/Local/Programs/MiKTeX 2.9/tex/latex/alertmessag
-e/example.pdf>]
-(document.ptc)
+[28] (document.ptc)
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
  <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 213.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [26
+
+[29
 
 
 
 ]
 \openout2 = `design_considerations.aux'.
 
-
-(design_considerations.tex
-<figure/Capture.jpg, id=647, 482.55281pt x 272.51813pt>
+ (design_considerations.tex
+<figure/Capture.jpg, id=385, 482.55281pt x 272.51813pt>
 File: figure/Capture.jpg Graphic file (type jpg)
 
 <use figure/Capture.jpg>
@@ -2461,31 +2460,31 @@ Package pdftex.def Info: figure/Capture.jpg used on input line 5.
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
- <figure/2.png, id=649, 722.7pt x 542.025pt>
+ <figure/2.png, id=387, 722.7pt x 542.025pt>
 File: figure/2.png Graphic file (type png)
 
 <use figure/2.png>
 Package pdftex.def Info: figure/2.png used on input line 16.
 (pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
- <figure/3.png, id=650, 722.7pt x 542.025pt>
+ <figure/3.png, id=388, 722.7pt x 542.025pt>
 File: figure/3.png Graphic file (type png)
 
 <use figure/3.png>
 Package pdftex.def Info: figure/3.png used on input line 23.
 (pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
- <figure/4.png, id=651, 722.7pt x 542.025pt>
+ <figure/4.png, id=389, 722.7pt x 542.025pt>
 File: figure/4.png Graphic file (type png)
 
 <use figure/4.png>
 Package pdftex.def Info: figure/4.png used on input line 24.
 (pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
- <figure/5.png, id=652, 722.7pt x 542.025pt>
+ <figure/5.png, id=390, 722.7pt x 542.025pt>
 File: figure/5.png Graphic file (type png)
 
 <use figure/5.png>
 Package pdftex.def Info: figure/5.png used on input line 31.
 (pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
- <figure/6.png, id=653, 722.7pt x 542.025pt>
+ <figure/6.png, id=391, 722.7pt x 542.025pt>
 File: figure/6.png Graphic file (type png)
 
 <use figure/6.png>
@@ -2497,7 +2496,7 @@ Missing character: There is no ô in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
- <figure/1.png, id=656, 722.7pt x 542.025pt>
+ <figure/1.png, id=394, 722.7pt x 542.025pt>
 File: figure/1.png Graphic file (type png)
 
 <use figure/1.png>
@@ -2513,7 +2512,7 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 48.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
 
-[27
+[30
 
  <./figure/Capture.jpg>]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
@@ -2523,7 +2522,7 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 48.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [28 <./figure/2.png> <./figure/3.png> <./figure/4.png>]
+ [31 <./figure/2.png> <./figure/3.png> <./figure/4.png>]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
@@ -2531,7 +2530,7 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 48.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [29 <./figure/5.png> <./figure/6.png> <./figure/1.png>]
+ [32 <./figure/5.png> <./figure/6.png> <./figure/1.png>]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
@@ -2543,7 +2542,7 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 213.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [30]
+ [33]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
@@ -2551,7 +2550,7 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 213.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [31] (document.ptc)
+ [34] (document.ptc)
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
@@ -2559,7 +2558,7 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 224.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [32
+ [35
 
 
 
@@ -2567,40 +2566,22 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
 \openout2 = `methodology.aux'.
 
  (methodology.tex
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 4.
+ on input line 5.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [33
+ [36
 
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 7.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [34]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 10.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [35]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 13.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [36])
+])
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
@@ -2608,7 +2589,15 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 224.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [37] (document.bbl
+ [37]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 224.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [38] (document.bbl
 bibitemlist
 )
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
@@ -2617,282 +2606,72 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 264.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [38
-
-
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 275.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [39
 
 
-] (document.ptc)pdfTeX warning (ext4): destination with the same identifier (na
-me{page.35}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.284 \include{usage_examples}
-                              
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 284.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [35
-
-
 
 ]
-\tf@ptc=\write13
-\openout13 = `document.ptc'.
-
-
-
-Package datagidx Warning: Rerun required to sort the index/glossary databases.
+\tf@ptc=\write9
+\openout9 = `document.ptc'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 306.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 306.
-(document.aux (introduction.aux) (literature_review.aux)
-(theoretical_considerations.aux) (design_considerations.aux) (methodology.aux)
-(answers_to_questions.aux) (usage_examples.aux))
+ (document.aux
+(introduction.aux) (literature_review.aux) (theoretical_considerations.aux)
+(design_considerations.aux) (methodology.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 306.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 306.
-Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 7DC83B4BDBCBF3F847727F1026C3E9C9;2272.
+
+
+Package rerunfilecheck Warning: File `document.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `document.out':
+(rerunfilecheck)             Before: 1275B46503BFAC963EF6448B8E7EEA7D;2241
+(rerunfilecheck)             After:  414E6F990F494FDC0C871F253A63F863;2080.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 33462 strings out of 493634
- 575628 string characters out of 3134015
- 805788 words of memory out of 3000000
- 35732 multiletter control sequences out of 15000+200000
- 44381 words of font info for 190 fonts, out of 3000000 for 9000
+ 33275 strings out of 493634
+ 573223 string characters out of 3134015
+ 781166 words of memory out of 3000000
+ 35679 multiletter control sequences out of 15000+200000
+ 40065 words of font info for 180 fonts, out of 3000000 for 9000
  1033 hyphenation exceptions out of 8191
- 62i,14n,80p,1557b,819s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{lstlisting.B.16} has been referenced but does not
+ 62i,14n,80p,1557b,493s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{figure.caption.26} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.25} has been referenced but does not
  exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{lstlisting.B.15} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{lstlisting.B.14} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{lstlisting.B.13} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{lstlisting.B.12} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{lstlisting.B.11} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{lstlisting.B.10} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{lstlisting.B.9} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{lstlisting.B.8} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{lstlisting.B.5} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{lstlisting.B.4} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{lstlisting.B.3} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{lstlisting.B.2} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{lstlisting.B.1} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{datagidx.00036} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{datagidx.00001} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{datagidx.00002} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{datagidx.00003} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{datagidx.00043} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{datagidx.00042} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{datagidx.00041} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{datagidx.00040} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{datagidx.00011} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{datagidx.00012} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{datagidx.00007} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{datagidx.00004} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.caption.41} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.B.1} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{lstlisting.B.7} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.39} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{lstlisting.B.6} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.37} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.35} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.B.11} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.B.10} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.B.9.1.1} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.B.9.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.B.9} has been referenced but does not exist
+pdfTeX warning (dest): name{section*.28} has been referenced but does not exist
 , replaced by a fixed one
 
-pdfTeX warning (dest): name{section.B.8} has been referenced but does not exist
+pdfTeX warning (dest): name{section*.10} has been referenced but does not exist
 , replaced by a fixed one
 
-pdfTeX warning (dest): name{section.B.7} has been referenced but does not exist
-, replaced by a fixed one
+pdfTeX warning (dest): name{section*.9} has been referenced but does not exist,
+ replaced by a fixed one
 
-pdfTeX warning (dest): name{section.B.6} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.B.5} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.B.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.B.3} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.B.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.B.1} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.A.8.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.A.8} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.A.7.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.A.7.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.A.7} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.A.6.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.A.6} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.A.5.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.A.5.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.A.5} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.A.4.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.A.4.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.A.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.A.3.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.A.3} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.A.2.1.3} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.A.2.1.2} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.A.2.1.1} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.A.2.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.A.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.A.1} has been referenced but does not exist
-, replaced by a fixed one
+pdfTeX warning (dest): name{section*.8} has been referenced but does not exist,
+ replaced by a fixed one
 
 {C:/Users/DanPaulo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8
 r.enc}<C:/Users/DanPaulo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmmi10.pfb><C:/Users/DanPaulo/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/DanPaulo/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/DanPaulo/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/D
-anPaulo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.
-pfb><C:/Users/DanPaulo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmsy10.pfb><C:/Users/DanPaulo/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/urw/helvetic/uhvb8a.pfb><C:/Users/DanPaulo/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/DanPaulo/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/DanPaulo/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/DanPaulo/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on document.pdf (55 pages, 9213110 bytes).
+msfonts/cm/cmsy10.pfb><C:/Users/DanPaulo/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/urw/helvetic/uhvb8a.pfb><C:/Users/DanPaulo/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/DanPaulo/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/DanPaulo/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/DanPaulo/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/DanPau
+lo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on document.pdf (45 pages, 9701082 bytes).
 PDF statistics:
- 824 PDF objects out of 1000 (max. 8388607)
- 227 named destinations out of 1000 (max. 500000)
- 36222 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 499 PDF objects out of 1000 (max. 8388607)
+ 114 named destinations out of 1000 (max. 500000)
+ 35212 words of extra memory for PDF output out of 35830 (max. 10000000)
 
