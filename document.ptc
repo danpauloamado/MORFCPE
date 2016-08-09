@@ -35,7 +35,7 @@
 \ttl@starttoc {chapters@4}
 \contentsline {section}{\numberline {4.1}Design Reference}{30}{section.4.1}
 \contentsline {section}{\numberline {4.2}Design and Dimensions}{30}{section.4.2}
-\contentsline {section}{\numberline {4.3}Components}{33}{section.4.3}
+\contentsline {section}{\numberline {4.3}Components}{32}{section.4.3}
 \ttl@stoptoc {chapters@4}
 \contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Methodology}}{35}{chapter.5}
 \ttl@stoptoc {chapters@4}
@@ -44,5 +44,5 @@
 \contentsline {section}{\numberline {5.2}Evaluation}{37}{section.5.2}
 \contentsline {section}{\numberline {5.3}Summary}{38}{section.5.3}
 \ttl@stoptoc {chapters@5}
-\contentsline {chapter}{References}{39}{section*.25}
+\contentsline {chapter}{References}{39}{section*.26}
 \contentsfinish 
