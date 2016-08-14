@@ -14,35 +14,35 @@
 \contentsline {section}{\numberline {1.6}Assumptions, Scope and Delimitations}{8}{section.1.6}
 \contentsline {section}{\numberline {1.7}Description and Methodology}{9}{section.1.7}
 \contentsline {section}{\numberline {1.8}Estimated Work Schedule and Budget}{11}{section.1.8}
-\contentsline {section}{\numberline {1.9}Overview}{11}{section.1.9}
+\contentsline {section}{\numberline {1.9}Overview}{12}{section.1.9}
 \ttl@stoptoc {chapters@1}
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Literature Review}}{12}{chapter.2}
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Literature Review}}{13}{chapter.2}
 \ttl@stoptoc {chapters@1}
 \ttl@starttoc {chapters@2}
-\contentsline {section}{\numberline {2.1}Summary}{13}{section.2.1}
+\contentsline {section}{\numberline {2.1}Make a Header for Each Topic}{14}{section.2.1}
 \ttl@stoptoc {chapters@2}
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Theoretical Considerations}}{22}{chapter.3}
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Theoretical Considerations}}{23}{chapter.3}
 \ttl@stoptoc {chapters@2}
 \ttl@starttoc {chapters@3}
-\contentsline {section}{\numberline {3.1}Agricultural Robots}{23}{section.3.1}
-\contentsline {section}{\numberline {3.2}Raspberry Pi 3 Model B}{24}{section.3.2}
-\contentsline {section}{\numberline {3.3}Raspberry Pi Camera Module}{25}{section.3.3}
-\contentsline {section}{\numberline {3.4}Virtual Network Computing}{27}{section.3.4}
-\contentsline {section}{\numberline {3.5}IP Address}{28}{section.3.5}
 \ttl@stoptoc {chapters@3}
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Design Considerations}}{29}{chapter.4}
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Design Considerations}}{24}{chapter.4}
 \ttl@stoptoc {chapters@3}
 \ttl@starttoc {chapters@4}
-\contentsline {section}{\numberline {4.1}Design Reference}{30}{section.4.1}
-\contentsline {section}{\numberline {4.2}Design and Dimensions}{30}{section.4.2}
-\contentsline {section}{\numberline {4.3}Components}{32}{section.4.3}
+\contentsline {section}{\numberline {4.1}Agricultural Robots}{25}{section.4.1}
+\contentsline {section}{\numberline {4.2}Raspberry Pi 3 Model B}{26}{section.4.2}
+\contentsline {section}{\numberline {4.3}Raspberry Pi Camera Module}{27}{section.4.3}
+\contentsline {section}{\numberline {4.4}Virtual Network Computing}{29}{section.4.4}
+\contentsline {section}{\numberline {4.5}IP Address}{30}{section.4.5}
+\contentsline {section}{\numberline {4.6}Design Reference}{31}{section.4.6}
+\contentsline {section}{\numberline {4.7}Design and Dimensions}{31}{section.4.7}
+\contentsline {section}{\numberline {4.8}Components}{33}{section.4.8}
 \ttl@stoptoc {chapters@4}
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Methodology}}{35}{chapter.5}
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Methodology}}{36}{chapter.5}
 \ttl@stoptoc {chapters@4}
 \ttl@starttoc {chapters@5}
-\contentsline {section}{\numberline {5.1}Implementation}{36}{section.5.1}
-\contentsline {section}{\numberline {5.2}Evaluation}{37}{section.5.2}
-\contentsline {section}{\numberline {5.3}Summary}{38}{section.5.3}
+\contentsline {section}{\numberline {5.1}Implementation}{37}{section.5.1}
+\contentsline {section}{\numberline {5.2}Evaluation}{38}{section.5.2}
+\contentsline {section}{\numberline {5.3}Summary}{39}{section.5.3}
 \ttl@stoptoc {chapters@5}
-\contentsline {chapter}{References}{39}{section*.26}
+\contentsline {chapter}{References}{40}{section*.26}
 \contentsfinish 

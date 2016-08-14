@@ -15,17 +15,17 @@
 \BOOKMARK [1][-]{section.1.8}{Estimated Work Schedule and Budget}{chapter.1}% 15
 \BOOKMARK [1][-]{section.1.9}{Overview}{chapter.1}% 16
 \BOOKMARK [0][-]{chapter.2}{Literature Review}{}% 17
-\BOOKMARK [1][-]{section.2.1}{Summary}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.1}{Make a Header for Each Topic}{chapter.2}% 18
 \BOOKMARK [0][-]{chapter.3}{Theoretical Considerations}{}% 19
-\BOOKMARK [1][-]{section.3.1}{Agricultural Robots}{chapter.3}% 20
-\BOOKMARK [1][-]{section.3.2}{Raspberry Pi 3 Model B}{chapter.3}% 21
-\BOOKMARK [1][-]{section.3.3}{Raspberry Pi Camera Module}{chapter.3}% 22
-\BOOKMARK [1][-]{section.3.4}{Virtual Network Computing}{chapter.3}% 23
-\BOOKMARK [1][-]{section.3.5}{IP Address}{chapter.3}% 24
-\BOOKMARK [0][-]{chapter.4}{Design Considerations}{}% 25
-\BOOKMARK [1][-]{section.4.1}{Design Reference}{chapter.4}% 26
-\BOOKMARK [1][-]{section.4.2}{Design and Dimensions}{chapter.4}% 27
-\BOOKMARK [1][-]{section.4.3}{Components}{chapter.4}% 28
+\BOOKMARK [0][-]{chapter.4}{Design Considerations}{}% 20
+\BOOKMARK [1][-]{section.4.1}{Agricultural Robots}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.2}{Raspberry Pi 3 Model B}{chapter.4}% 22
+\BOOKMARK [1][-]{section.4.3}{Raspberry Pi Camera Module}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.4}{Virtual Network Computing}{chapter.4}% 24
+\BOOKMARK [1][-]{section.4.5}{IP Address}{chapter.4}% 25
+\BOOKMARK [1][-]{section.4.6}{Design Reference}{chapter.4}% 26
+\BOOKMARK [1][-]{section.4.7}{Design and Dimensions}{chapter.4}% 27
+\BOOKMARK [1][-]{section.4.8}{Components}{chapter.4}% 28
 \BOOKMARK [0][-]{chapter.5}{Methodology}{}% 29
 \BOOKMARK [1][-]{section.5.1}{Implementation}{chapter.5}% 30
 \BOOKMARK [1][-]{section.5.2}{Evaluation}{chapter.5}% 31
