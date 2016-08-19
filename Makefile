@@ -4,7 +4,6 @@ all:
 
 	pdflatex document.tex
 	bibtex document.aux
-	pdflatex document.tex
 
 clean:
 

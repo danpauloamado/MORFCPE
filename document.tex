@@ -10,21 +10,21 @@
 
 \GroupIDtrue % comment if no group ID
 
-%\ResultDiscusstrue % comment to disable results and discussions
+\ResultDiscusstrue % comment to disable results and discussions
 
-%\Conctrue % comment to disable conclusions
+\Conctrue % comment to disable conclusions
 
 \Finishedtrue % comment only if you will not be printing your manuscript prior to final hard binding, i.e. you are not told by your thesis adviser that you have passed, and you have no submitted the requirements
 
 %\Gradtrue % comment to disable graduate school format
 
-%\PhDtrue % comment to disable PhD dissertation format
+\PhDtrue % comment to disable PhD dissertation format
 
-%\PubListtrue % comment to disable publication list
+\PubListtrue % comment to disable publication list
 
-%\Vitatrue % comment to disable author(s) vita
+\Vitatrue % comment to disable author(s) vita
 
-%\Indextrue % comment to disable index 
+\Indextrue % comment to disable index 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % document IDs
@@ -33,8 +33,8 @@
 \newcommand{\college}{Gokongwei College of Engineering}
 \newcommand{\department}{Department of Electronics and Communications Engineering} 
 \newcommand{\degreeType}{Bachelor of Science} 
-\newcommand{\degree}{Electronics and Communications Engineering}
-\newcommand{\degreeAbbrv}{BS-ECE}
+\newcommand{\degree}{Computer Engineering}
+\newcommand{\degreeAbbrv}{BS-CPE}
 
 \newcommand{\documentAdviserTitle}{Engr.} 
 \newcommand{\documentAdviser}{Donabel D. Abuan}
@@ -59,24 +59,24 @@
 \newcommand{\deanTitle}{Dr.} 
 \newcommand{\deanName}{Rosemary R. Seva}
 
-\newcommand{\groupID}{ESG-04} % group ID number is for undergraduates as of this formatting
+\newcommand{\groupID}{DreamTeam} % group ID number is for undergraduates as of this formatting
 
 \newcommand{\numberOfAuthors}{3} % adapt the number of names below accordingly and sort the sunames in alphabetically ascending manner, like the given example
 
 \defineAuthor{surname1}{Abe}
 \defineAuthor{firstname1}{Paul Vince A.}
 
-\defineAuthor{surname3}{Mirida}
-\defineAuthor{firstname3}{Joanna Katherine U.}
-
 \defineAuthor{surname2}{Amado}
 \defineAuthor{firstname2}{Dan Paulo E.}
 
-\newcommand{\documentTitle}{ A  Robot System for Corn Planting in the Philippines} % put tilde (~) between words to indicate non-breaking adjacent words
+\defineAuthor{surname3}{Mirida}
+\defineAuthor{firstname3}{Joanna Katherine U.}
 
-\newcommand{\keywords}{PIC16F877A, soil moisture, greenhouse, automation}
+\newcommand{\documentTitle}{A Robot System for Corn Planting in the Philippines} % put tilde (~) between words to indicate non-breaking adjacent words
 
-\newcommand{\approvalDate}{July~25,~\the\year} % put here the date when all examiners and/or their approved representative have given their approval; do not remove the tildes in order to not break the date; the submission deadline can also be placed as the date
+\newcommand{\keywords}{Robot, System, RaspberryPi, Agriculture, Philippines}
+
+\newcommand{\approvalDate}{August~18,~\the\year} % put here the date when all examiners and/or their approved representative have given their approval; do not remove the tildes in order to not break the date; the submission deadline can also be placed as the date
 
 \hyphenation{op-tical net-works semi-conduc-tor evi-dent re-la-tive re-si-den-tial po-la-ri-za-tion so-lu-tion/s} % for correcting bad hyphenation
 
@@ -101,12 +101,12 @@ literature_review,
 theoretical_considerations,
 design_considerations,
 methodology,
-%results_and_discussion,
-%conclusions,
-%answers_to_questions,
-%usage_examples,
-%publication,
-%vita,
+results_and_discussion,
+conclusions,
+answers_to_questions,
+usage_examples,
+publication,
+vita,
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -118,16 +118,16 @@ methodology,
 \cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\begin{SingleSpace}
-%\tableofcontents
+\begin{SingleSpace}
+\tableofcontents
+\cleardoublepage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\listoffigures %---------------------------------------LIST OF FIGURES
 %\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\listoffigures
-%\cleardoublepage
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\listoftables
+%\listoftables %---------------------------------------LIST OF TABLES
 %\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -137,8 +137,7 @@ methodology,
 	%\printterms[database=abbreviation, style=indexalign, prelocation=dotfill, location=first, columns=1, postname=\hspace{3em}]
 	%\thispagestyle{plain}
 %}	
-%\cleardoublepage
-
+%\cleardoublepage %---------------------------------------Abbreviations
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\phantomsection
 %\addcontentsline{toc}{chapter}{Notation}
@@ -189,11 +188,9 @@ methodology,
 \stopcontents[chapters]
 \cleardoublepage
 
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \chapter{Theoretical Considerations}
-\chaptermark{Theoretical Considerations} % uncomment this and put a shorter version of the chapter title for the TOC and chapter markings (i.e., header or footer)
+%\chaptermark{Theoretical Considerations} % uncomment this and put a shorter version of the chapter title for the TOC and chapter markings (i.e., header or footer)
 \label{ch:theorycon}
 \startcontents[chapters]
 \begin{SingleSpace}	
@@ -237,6 +234,7 @@ methodology,
 	\stopcontents[chapters]
 	\cleardoublepage
 \fi
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \ifConc
 	\chapter{Conclusions, Recommendations, and Future Directives} 
@@ -264,32 +262,32 @@ Produced: \usdate\today, \currenttime \\
 \cleardoublepage 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\SingleSpacing
-%\appendix
-%\renewcommand{\thechapter}{\Alph{chapter}}
-%\renewcommand{\thesection}{\thechapter\arabic{section}}
-%\appto\appendix{\renewcommand\thechapter{\AlphAlph{\value{chapter}}}} % for increasing appendix chapters beyond Z, i.e. AA, AB, etc.
-%\chapter{Answers to Questions to this \documentType}
-%\startcontents[chapters]
-%\Mprintcontents 
-%\include{answers_to_questions}
-%\stopcontents[chapters]
-%\cleardoublepage
+\SingleSpacing
+\appendix
+\renewcommand{\thechapter}{\Alph{chapter}}
+\renewcommand{\thesection}{\thechapter\arabic{section}}
+\appto\appendix{\renewcommand\thechapter{\AlphAlph{\value{chapter}}}} % for increasing appendix chapters beyond Z, i.e. AA, AB, etc.
+\chapter{Answers to Questions to this \documentType}
+\startcontents[chapters]
+\Mprintcontents 
+\include{answers_to_questions}
+\stopcontents[chapters]
+\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\chapter{Usage Examples} 
 %\label{ch:usage_examples}
-% \startcontents[chapters]
-% \Mprintcontents  
+%% \startcontents[chapters]
+%% \Mprintcontents  
 %\include{usage_examples}
-% \stopcontents[chapters]
+%% \stopcontents[chapters]
 %\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\ifPubList
-	\include{publication}
-\fi
-\cleardoublepage
+%\ifPubList
+	%\include{publication}
+%\fi
+%\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \ifVita
@@ -298,9 +296,9 @@ Produced: \usdate\today, \currenttime \\
 \cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\ifIndex
-	\printindex
-\fi
-\cleardoublepage
+%\ifIndex
+	%\printindex
+%\fi
+%\cleardoublepage
 
 \end{document}

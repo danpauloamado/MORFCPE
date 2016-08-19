@@ -3,35 +3,75 @@
 \contentsline {chapter}{Acknowledgment}{v}{section*.4}
 \contentsline {chapter}{Abstract}{vi}{section*.6}
 \contentsline {chapter}{Table of Contents}{vii}{section*.8}
-\contentsline {chapter}{List of Figures}{ix}{section*.9}
-\contentsline {chapter}{List of Tables}{x}{section*.10}
 \contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introduction}}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Background of the Study}{2}{section.1.1}
-\contentsline {section}{\numberline {1.2}Prior Studies}{3}{section.1.2}
+\contentsline {section}{\numberline {1.2}Prior Studies}{2}{section.1.2}
 \contentsline {section}{\numberline {1.3}Problem Statement}{4}{section.1.3}
 \contentsline {section}{\numberline {1.4}Objectives}{4}{section.1.4}
 \contentsline {subsection}{\numberline {1.4.1}General Objective(s)}{4}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}Specific Objectives}{5}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.2}Specific Objectives}{4}{subsection.1.4.2}
 \contentsline {section}{\numberline {1.5}Significance of the Study}{5}{section.1.5}
-\contentsline {section}{\numberline {1.6}Assumptions, Scope and Delimitations}{6}{section.1.6}
+\contentsline {section}{\numberline {1.6}Assumptions, Scope and Delimitations}{5}{section.1.6}
 \contentsline {section}{\numberline {1.7}Description and Methodology}{6}{section.1.7}
 \contentsline {section}{\numberline {1.8}Estimated Work Schedule and Budget}{7}{section.1.8}
-\contentsline {section}{\numberline {1.9}Overview}{7}{section.1.9}
 \contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Literature Review}}{9}{chapter.2}
-\contentsline {section}{\numberline {2.1}Summary}{10}{section.2.1}
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Theoretical Considerations}}{16}{chapter.3}
-\contentsline {section}{\numberline {3.1}Agricultural Robots}{17}{section.3.1}
-\contentsline {section}{\numberline {3.2}Raspberry Pi 3 Model B}{17}{section.3.2}
-\contentsline {section}{\numberline {3.3}Raspberry Pi Camera Module}{18}{section.3.3}
-\contentsline {section}{\numberline {3.4}Virtual Network Computing}{21}{section.3.4}
-\contentsline {section}{\numberline {3.5}IP Address}{21}{section.3.5}
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Design Considerations}}{23}{chapter.4}
-\contentsline {section}{\numberline {4.1}Design Reference}{24}{section.4.1}
-\contentsline {section}{\numberline {4.2}Design and Dimensions}{24}{section.4.2}
-\contentsline {section}{\numberline {4.3}Components}{25}{section.4.3}
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Methodology}}{28}{chapter.5}
-\contentsline {section}{\numberline {5.1}Implementation}{29}{section.5.1}
-\contentsline {section}{\numberline {5.2}Evaluation}{29}{section.5.2}
-\contentsline {section}{\numberline {5.3}Summary}{30}{section.5.3}
-\contentsline {chapter}{References}{31}{section*.28}
+\contentsline {section}{\numberline {2.1}Vision-Based Guidance for Robot Navigation in Agriculture}{10}{section.2.1}
+\contentsline {section}{\numberline {2.2}Video Streaming In Autonomous Mobile Robot Using Wi-Fi}{11}{section.2.2}
+\contentsline {section}{\numberline {2.3}Camera-Based Clear Path Detection}{11}{section.2.3}
+\contentsline {section}{\numberline {2.4}An Efficient Crop Row Detection Method for Agriculture Robots}{12}{section.2.4}
+\contentsline {section}{\numberline {2.5}A technical review on navigation systems of agricultural autonomous off-road vehicles}{13}{section.2.5}
+\contentsline {section}{\numberline {2.6}Agricultural automatic guidance research in North America}{13}{section.2.6}
+\contentsline {section}{\numberline {2.7}Automatic guidance for agricultural vehicles in Europe}{14}{section.2.7}
+\contentsline {section}{\numberline {2.8}Autonomous Agriculture Vehicles in Japan}{14}{section.2.8}
+\contentsline {section}{\numberline {2.9}Variable Field-of-view Machine Vision-Based Row Guidance of Agricultural\nobreakspace {}Robot}{16}{section.2.9}
+\contentsline {section}{\numberline {2.10}Navigation System for Agricultural Machines}{16}{section.2.10}
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Theoretical Considerations}}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Corn}{18}{section.3.1}
+\contentsline {section}{\numberline {3.2}Corn Production}{18}{section.3.2}
+\contentsline {section}{\numberline {3.3}Agricultural Technology}{19}{section.3.3}
+\contentsline {section}{\numberline {3.4}Agricultural Robots}{19}{section.3.4}
+\contentsline {section}{\numberline {3.5}Philippine Agriculture}{19}{section.3.5}
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Design Considerations}}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}Raspberry Pi 3 Model B}{22}{section.4.1}
+\contentsline {section}{\numberline {4.2}Raspberry Pi Camera Module}{25}{section.4.2}
+\contentsline {section}{\numberline {4.3}Virtual Network Computing}{25}{section.4.3}
+\contentsline {section}{\numberline {4.4}IP Address}{26}{section.4.4}
+\contentsline {section}{\numberline {4.5}Design Reference}{26}{section.4.5}
+\contentsline {section}{\numberline {4.6}Design and Dimensions}{26}{section.4.6}
+\contentsline {section}{\numberline {4.7}Components}{28}{section.4.7}
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Methodology}}{31}{chapter.5}
+\contentsline {section}{\numberline {5.1}Implementation}{32}{section.5.1}
+\contentsline {section}{\numberline {5.2}Evaluation}{32}{section.5.2}
+\contentsline {section}{\numberline {5.3}Summary}{33}{section.5.3}
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Results and Discussion}}{34}{chapter.6}
+\contentsline {section}{\numberline {6.1}Summary}{35}{section.6.1}
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Conclusions, Recommendations, and Future Directives}}{38}{chapter.7}
+\contentsline {section}{\numberline {7.1}Concluding Remarks}{39}{section.7.1}
+\contentsline {section}{\numberline {7.2}Contributions}{39}{section.7.2}
+\contentsline {section}{\numberline {7.3}Recommendations}{39}{section.7.3}
+\contentsline {section}{\numberline {7.4}Future Prospects}{39}{section.7.4}
+\contentsline {chapter}{References}{41}{section*.31}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Answers to Questions to this Thesis}}{42}{appendix.A}
+\contentsline {section}{\numberline {A1}How important is the problem to practice?}{44}{section.A.1}
+\contentsline {section}{\numberline {A2}How will you know if the solution/s that you will achieve would be better than existing ones?}{44}{section.A.2}
+\contentsline {subsection}{\numberline {A2.1}How will you measure the improvement/s?}{44}{subsection.A.2.1}
+\contentsline {subsubsection}{\numberline {A2.1.1}What is/are your basis/bases for the improvement/s?}{44}{subsubsection.A.2.1.1}
+\contentsline {subsubsection}{\numberline {A2.1.2}Why did you choose that/those basis/bases?}{44}{subsubsection.A.2.1.2}
+\contentsline {subsubsection}{\numberline {A2.1.3}How significant are your measure/s of the improvement/s?}{44}{subsubsection.A.2.1.3}
+\contentsline {section}{\numberline {A3}What is the difference of the solution/s from existing ones?}{45}{section.A.3}
+\contentsline {subsection}{\numberline {A3.1}How is it different from previous and existing ones?}{45}{subsection.A.3.1}
+\contentsline {section}{\numberline {A4}What are the assumptions made (that are behind for your proposed solution to work)?}{45}{section.A.4}
+\contentsline {subsection}{\numberline {A4.1}Will your proposed solution/s be sensitive to these assumptions?}{45}{subsection.A.4.1}
+\contentsline {subsection}{\numberline {A4.2}Can your proposed solution/s be applied to more general cases when some of the assumptions are eliminated? If so, how?}{46}{subsection.A.4.2}
+\contentsline {section}{\numberline {A5}What is the necessity of your approach / proposed solution/s?}{46}{section.A.5}
+\contentsline {subsection}{\numberline {A5.1}What will be the limits of applicability of your proposed\nobreakspace {}solution/s?}{46}{subsection.A.5.1}
+\contentsline {subsection}{\numberline {A5.2}What will be the message of the proposed solution to technical people? How about to non-technical managers and business men?}{46}{subsection.A.5.2}
+\contentsline {section}{\numberline {A6}How will you know if your proposed solution/s is/are correct?}{47}{section.A.6}
+\contentsline {subsection}{\numberline {A6.1}Will your results warrant the level of mathematics used (i.e., will the end justify the means)?}{47}{subsection.A.6.1}
+\contentsline {section}{\numberline {A7}Is/are there an/\_ alternative way/s to get to the same solution/s?}{47}{section.A.7}
+\contentsline {subsection}{\numberline {A7.1}Can you come up with illustrating examples, or even better, counter examples to your proposed solution/s?}{47}{subsection.A.7.1}
+\contentsline {subsection}{\numberline {A7.2}Is there an approximation that can arrive at the essentially the same proposed solution/s more easily?}{47}{subsection.A.7.2}
+\contentsline {section}{\numberline {A8}If you were the examiner of your proposal, how would you present the proposal in another way?}{48}{section.A.8}
+\contentsline {subsection}{\numberline {A8.1}What are the weaknesses of your proposal?}{48}{subsection.A.8.1}
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Vita}}{49}{appendix.B}
 \contentsfinish 

@@ -1,12 +1,10 @@
 \section{Background of the Study}
 
-The Philippines is the world’s eighth-largest rice producer. Its arable land totals 5.4 million hectares. Rice area harvested has expanded from nearly 3.8 million hectares in 1995 to about 4.4 million hectares in 2010. However, the country’s rice area harvested is still very small compared with that of the other major rice-producing countries in Asia. Climate change, growing population, declining land area, high cost of inputs, and poor drainage and inadequate irrigation facilities are the major constraints to rice production in the Philippines. Some of these constraints are interrelated. Unabated conversion of some agricultural land to residential, commercial, and industrial land reduces the area devoted to rice production, which leads to a shortage in domestic supply (ricepedia.org). The Philippines is one of the largest producers of rice in the world, despite of having an inadequate rice area caused by several factors which led to inadequacy of domestic supply.  Meanwhile, in Japan, the rapid aging of farm workers and depopulation of farming communities are currently becoming a major concern. The number of farmers was 4.82 million in 1990 and is decreasing to 2.60 million in 2010. This decrease has been continuing for over 50 years. The farmer's average age is over 65 years old (MAFF 2012). This results into the decrease in production of rice in Japan, which then led to the development of fully robot-operated farming from tillage to harvest in large-scale agriculture (Tamaki, et al.).
+Corn is second to rice as the most important crop in the Philippines, with one-third of Filipino farmers, or 1.8 million, depending on maize as their major source of livelihood. White corn is the most important substitute staple in periods of rice shortage, especially for the people in rural areas. Yellow corn is the primary source of feed for the Philippines’ animal industry, and is being increasingly used by the manufacturing sector [Gerpacio, et. al.]. Due to rice shortage in the production of rice in the Philippines, farmers substitute corn as an alternative to rice as their main source of livelihood.
 	
-The development or agricultural robot, led some researchers to utilize image processing for navigation. Digital image processing allows a much wider range of algorithms to be applied to the input data and can avoid problems such as the build-up of noise and signal distortion during processing. Today machine visions are applied in two dimensions (2-D) or three dimensions (3-D). The 2-D vision systems use area scan or line scan cameras as well as appropriate lighting to measure the visible characteristics of an object such as, quality of surface appearance, edge based measurements and presence and location of features. In agriculture, 2-D has applications in sorting based on color, shape and size. In 3-D analysis basically there are two techniques applied: stereo vision and LED/laser triangulation. Machine vision-based guidance showed acceptable performance at all speeds and different paths by average errors below 3 cm. It was proposed that using both machine vision and laser radar may provide a more robust guidance as well as obstacle detection capability (Mousazadech, 2013).
+The development or agricultural robot, led some researchers to utilize image processing for navigation. Digital image processing allows a much wider range of algorithms to be applied to the input data and can avoid problems such as the build-up of noise and signal distortion during processing. Today machine visions are applied in two dimensions (2-D) or three dimensions (3-D). The 2-D vision systems use area scan or line scan cameras as well as appropriate lighting to measure the visible characteristics of an object such as, quality of surface appearance, edge based measurements and presence and location of features. In agriculture, 2-D has applications in sorting based on color, shape and size. In 3-D analysis basically there are two techniques applied: stereo vision and LED/laser triangulation. Machine vision-based guidance showed acceptable performance at all speeds and different paths by average errors below 3 cm. It was proposed that using both machine vision and laser radar may provide a more robust guidance as well as obstacle detection capability [Mousazadech, 2013].
 
-	For the Philippines to become self-sufficient in rice, it has to adopt existing technologies such as improved varieties and know-how to have yield increase by 1–3 t/ha. Better quality seed combined with good management, including new postharvest technologies, is the best way to improve rice yields and the quality of production (ricepedia.org). The utilization of new technology could help increase the production of rice in the country, increase our domestic supply, decrease the need to import rice, reduce the consumer cost, and increase the profit gain of farmers. In this study, we focus on the development and research of a rice planting robot that could be implemented in the Philippines. This study specifically focuses on the use of image processing as the robot’s main navigation system, the development of a rice planting mechanism, and the possible effect of rice planting robot in Philippine agriculture.
-
-
+	The adoption of improved technology for yellow corn production has resulted in significant yield increases.  Yellow corn accounted for 23\% of total corn production 1985, and for 58\% by 2001. It should be noted that, however, that the national average yield of 1.82 tons per hectare for white and yellow corn (in 2001) is low when compared to corn fields in other Asian countries [Gozales and lapina, 2003].
 
 \section{Prior Studies}
 Pertinent to the needs of the country, the Philippines is centered and concentrated in conducting researches on agricultural technology. As a country highly capable of producing its own sources of food, there is no doubt that there is priority in funding these researches. These, in turn, allow its agriculture to be as advanced as it requires for its growing population. Following the group’s interest in integrating its recent forms of technology in indigenous sectors of the society, the members conducted brief, prior studies about the current advancements in agricultural technology of different origins. They purposed to find foreign researches in order to extend the capabilities of local technology to be as equally competent.
@@ -21,24 +19,24 @@ Pertinent to the needs of the country, the Philippines is centered and concentra
 
 
 \section{Problem Statement}
-The Philippines is rich in fertile lands suitable for agricultural development. However, due to the absence of advanced tools for farming, rice shortage is becoming a problem. Filipinos are importing rice from other countries such as Thailand and Vietnam in spite of the capability of the Philippine land to cultivate rice.
+The Philippines is rich in fertile lands suitable for agricultural development. However, due to the absence of advanced tools for farming, food shortage is becoming a problem. Filipinos are importing crops from other countries such as Thailand and Vietnam in spite of the capability of the Philippine land to cultivate crops.
  
-Philippine farmers are not equipped with tools that could compete with the advanced instruments used by foreign farmers. Most of the Philippine farmers rely on manual labor. Difficult tasks such as sowing the field are done by the farmers yet their salary is still below the minimum wage. The land may be rich and fertile for agriculture but the agricultural sector, specifically the local farmers, are considered one of the poorest sector in the country. In turn, the rice fields are neglected. According to National Geographic, “Some 25 to 30 percent of the terraces are abandoned and beginning to deteriorate, along with irrigation systems”. Investors and laborers are avoiding the agricultural industry due to the absence of advanced systems used in planting rice.
+Philippine farmers are not equipped with tools that could compete with the advanced instruments used by foreign farmers. Most of the Philippine farmers rely on manual labor. Difficult tasks such as sowing the field are done by the farmers yet their salary is still below the minimum wage. The land may be rich and fertile for agriculture but the agricultural sector, specifically the local farmers, are considered one of the poorest sector in the country. In turn, the fields are neglected. According to National Geographic, “Some 25 to 30 percent of the terraces are abandoned and beginning to deteriorate, along with irrigation systems”. Investors and laborers are avoiding the agricultural industry due to the absence of advanced systems used in planting crops. This greatly affects not only the necessity of each individual but also the economy of the Philippines.
  
 \section{Objectives}
 \subsection{General Objective(s)}
-To design and develop a system that would automate plantation of rice in paddy fields in the Philippines;
+To design and develop a system that would automate plantation of corn in corn fields in the Philippines;
  
 \subsection{Specific Objectives}
  
 \begin{enumerate}
-\item To implement computer vision, specifically edge detection, in tracing the path sections of the paddy field;
+\item To implement computer vision in tracing the path sections of the corn field as implemented to distant manual control;
  
 \item To utilize the flood fill algorithm in designing the optimal route for the mobile robot as it plant the rice;
  
-\item To design an Arduino system in implementing computer vision as interface in robotic application;
+\item To design an RaspberryPi system in implementing computer vision as interface in robotic application;
  
-\item To design and develop a mobile robot designed to withstand paddy field environmental factors (e.g. soil, mud, etc.);
+\item To design and develop a mobile robot designed to withstand corn field environmental factors (e.g. soil, temperature, etc.);
  
 \end{enumerate}
  
@@ -46,30 +44,25 @@ To design and develop a system that would automate plantation of rice in paddy f
  
 Computer Engineering is the marriage of electronics and programming. Implementing a programming-based instruction on an electronic hardware is a fundamental action in the progression of this course. With the use of programming, hardware systems are automated with a more defined set of instructions. With this, the study of a Robot System for the Paddy Field in the Philippines would be an unwavering focus related to the field. The implementation of this robot system would reinforce automation with the aid of computer vision. Moreover, the electronic and programming skills of the students would be strengthened with this research. External elements such as the edge of the paddy field increase the complexity of this longstanding research. Robot systems are no longer fairly new. However, introducing computer vision that would direct a robot system that could withstand environmental factors, specifically in paddy fields, would establish an innovation for the field of Computer Engineering and for the country Philippines as well.
  
-In social context, the employment of this robot system for paddy field planting would allow a decrease in production time of rice as it automates the planting of the crop. Additionally, it would lessen the manual labor provided by the local farmers. Instead of manually planting rice, local farmers would save time and effort as the robot system for paddy field planting would be utilized. The workload for the farmers would be decreased as the production is increased. It is anticipated that the use of this system would increase the productivity of agricultural sector in the country. It would aide local farmers in ensuring an increase in rice yield as plantation is automated. It will not only benefit the agricultural area but also the economic status of the Philippines.
+In social context, the employment of this robot system for corn field planting would allow a decrease in production time of corn as it automates the planting of the crop. Additionally, it would lessen the manual labor provided by the local farmers. Instead of manually planting corn seeds, local farmers would save time and effort as the robot system for corn field planting would be utilized. The workload for the farmers would be decreased as the production is increased. It is anticipated that the use of this system would increase the productivity of agricultural sector in the country. It would aide local farmers in ensuring an increase in corn yield as plantation is automated. It will not only benefit the agricultural area but also the economic status of the Philippines.
  
 By engaging software-heavy technique such as computer vision into an electronic device, this research would be principal in establishing further the discipline of Computer Engineering. Considering programming as the automation mechanism of systems would yield a better and more accurate result as the set of instructions is broadened. This research is also essential in developing the programming and hardware skills of the students. Simultaneously, this research is significant due to the demand of increasing the competency of the agricultural sector of the Philippines.
-
-
-
-
 
 \section{Assumptions, Scope and Delimitations}
 Across the whole duration of the study, the group concentrated on the following:
 \begin{itemize}
-\item Focused on guiding a robot system thru computer vision across a small-area of a rural paddy field
-\item With added mechanism of planting seedlings to tilled, muddy lands
-\item Utilization of the edge-detection algorithm to navigate a robot system
-\item Interfacing OpenCV to operate an Arduino-based Robot System
+\item Focused on guiding a robot system thru computer vision across a small-area of a rural corn field
+\item With added mechanism of planting seeds with make-shift, recycled canister-motor combination
+\item Interfacing navigation RaspberryPi with its own camera module
+\item Tested in 100 square-meter-area at Cagayan
 \end{itemize}
  
 With this, there were limitations set to the following extents:
 \begin{itemize}
-\item Localization of field study with the environmental factors seen at Jaybanga, Lobo, Batangas
-\item Robot functionalities set to plant seedlings by picking holes of one-inch diameter per half-square meter of muddy land
-\item Robot vision from a 240P-resolution camera under live feed
-\item Tested twenty iterations of planting seedlings in one pass
-\item Ran two daytime field tests on two Saturdays of the month of July
+\item Localization of field study with the environmental factors seen at Abulug, Cagayan
+\item Robot functionalities set to plant seeds only; regardless of their germination
+\item Robot vision with at least a 720P-resolution camera under live feed
+\item Tested twenty iterations of planting seeds in one pass
 \end{itemize}
 
 \section{Description and Methodology}
@@ -90,7 +83,7 @@ With this, there were limitations set to the following extents:
 \section{Estimated Work Schedule and Budget}
 
 % Table generated by Excel2LaTeX from sheet 'Sheet1'
-\begin{table}[htbp]
+\begin{table}[!h]
   \centering
   \caption{Bill of Components}
     \begin{tabular}{rrr}
@@ -124,10 +117,3 @@ With this, there were limitations set to the following extents:
     \end{tabular}%
   \label{tab:addlabel}%
 \end{table}%
-
-
-
-\section{Overview}
-
-Provide here a brief summary and what the reader should expect from each succeeding chapter.  Show how each chapter are connected with each other.
-

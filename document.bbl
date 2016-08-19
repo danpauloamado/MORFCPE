@@ -1,12 +1,24 @@
 \begin{thebibliography}{}
 
+\bibitem[Wor, ]{WorldBank}
+Agriculture, value added (% of gdp).
+
 \bibitem[Cisco, ]{cisco}
 Cisco.
 \newblock Ip addressing guide.
 
+\bibitem[du~Plessis, 2003]{Jean2003}
+du~Plessis, J. (2003).
+\newblock Maize production.
+
 \bibitem[Edan et~al., ]{Edan}
 Edan, Y., Henten, E.~v., and Tuijl, B.~v.
 \newblock Agricultural robotics.
+
+\bibitem[Motes, ]{Motes}
+Motes, W.
+\newblock Modern agriculture and its benefits -- trends, implications and
+  outlook.
 
 \bibitem[RaspberryPiFoundation, a]{camers}
 RaspberryPiFoundation.

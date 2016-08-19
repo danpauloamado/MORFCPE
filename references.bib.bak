@@ -42,6 +42,13 @@
   Year                     = {2009}
 }
 
+@Electronic{Jean2003,
+  author = {Jean du Plessis},
+  year =   {2003},
+  title =  {Maize Production},
+  url =    {http://www.arc.agric.za/arc-gci/Fact%20Sheets%20Library/Maize%20Production.pdf}
+}
+
 @Book{Oetiker2014,
   Title                    = {The Not So Short Introduction to \LaTeXe
 Or \LaTeXe in 157 minutes},

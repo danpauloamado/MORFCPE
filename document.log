@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.12)  14 AUG 2016 14:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.12)  19 AUG 2016 17:21
 entering extended mode
 **./document.tex
 (document.tex
@@ -1640,7 +1640,9 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 
 ("C:\Users\DanPaulo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geomet
 ry.cfg"))) (document.aux (introduction.aux) (literature_review.aux)
-(theoretical_considerations.aux) (design_considerations.aux) (methodology.aux))
+(theoretical_considerations.aux) (design_considerations.aux) (methodology.aux)
+(results_and_discussion.aux) (conclusions.aux) (answers_to_questions.aux)
+(vita.aux))
 \openout1 = `document.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
@@ -1759,7 +1761,7 @@ LaTeX Info: Redefining \nameref on input line 113.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (format/pre_toc.ltx
-<figure/../format/DLSU_Logo.png, id=138, 158.994pt x 158.994pt>
+<figure/../format/DLSU_Logo.png, id=310, 158.994pt x 158.994pt>
 File: figure/../format/DLSU_Logo.png Graphic file (type png)
 
 <use figure/../format/DLSU_Logo.png>
@@ -1794,7 +1796,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 159--163
  []
 
 
-<figure/../format/dlsu_thesis_paper_letterhead.pdf, id=148, 614.295pt x 794.97p
+<figure/../format/dlsu_thesis_paper_letterhead.pdf, id=320, 614.295pt x 794.97p
 t>
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
@@ -1886,8 +1888,16 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
 
 
 ] (abstract.tex)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+! Undefined control sequence.
+l.354 	\vspace{3ex} \noindent {\itshape \n
+                                           Index Terms}---\keywords.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
@@ -1896,22 +1906,55 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  [6
 
 
-])
+]) (document.toc
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 28.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [7
+
+
+]
+Overfull \hbox (10.75226pt too wide) in paragraph at lines 48--48
+ [][] [][][]\OT1/ptm/b/n/12 CONCLUSIONS, REC-OM-MEN-DA-TIONS, AND FU-TURE DI-RE
+C- 
+ []
+
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 60.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [8])
+\tf@toc=\write9
+\openout9 = `document.toc'.
+
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 123.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [9]
 \c@ttl@toc@chapters=\count402
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 175.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 174.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 175.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 174.
  (document.ptc)
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 177.
+ on input line 176.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [1
-
 
 
 ]
@@ -1926,51 +1969,26 @@ Missing character: There is no ô in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 6.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [2
-
-]
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ì in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 14.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [3]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 14.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 12.
 
 ("C:\Users\DanPaulo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.f
 d"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 12.
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
  <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 17.
+ on input line 13.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [4]
+ [2
+
+]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ú in font ptmr7t!
@@ -1982,29 +2000,61 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 25.
+ on input line 23.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [3]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 46.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [4]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 57.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [5]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 40.
+ on input line 76.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [6]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 50.
+ on input line 176.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [7]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
@@ -2012,61 +2062,17 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 69.
+ on input line 176.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [8]
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
+ [8] (document.ptc)
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 80.
+ on input line 187.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [9]
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 88.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [10]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 133.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [11])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 177.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [12] (document.ptc)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 188.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [13
+ [9
 
 
 
@@ -2084,16 +2090,7 @@ Missing character: There is no ù in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 13.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
-
-[14
-
-]
 ! Undefined control sequence.
 l.14 \tab
           Notably citing the Horizon Detection, the researchers began to tra...
@@ -2103,65 +2100,21 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 15.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [10
+
+]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ú in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 19.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [15]
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 23.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [16]
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 30.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [17]
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ú in font ptmr7t!
@@ -2173,30 +2126,70 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 38.
+ on input line 24.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [18]
-<figure/control.jpg, id=270, 393.72093pt x 271.76532pt>
+ [11]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Overfull \hbox (5.27113pt too wide) in paragraph at lines 27--27
+[]\OT1/phv/b/n/17.28 An Ef-fi-cient Crop Row De-tec-tion Method for Agri-
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 35.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [12]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Overfull \hbox (5.21747pt too wide) in paragraph at lines 42--42
+[]\OT1/phv/b/n/17.28 A tech-ni-cal re-view on nav-i-ga-tion sys-tems of agri-
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+<figure/control.jpg, id=540, 393.72093pt x 271.76532pt>
 File: figure/control.jpg Graphic file (type jpg)
 
 <use figure/control.jpg>
-Package pdftex.def Info: figure/control.jpg used on input line 41.
+Package pdftex.def Info: figure/control.jpg used on input line 48.
 (pdftex.def)             Requested size: 252.94499pt x 174.59268pt.
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-
-<figure/elemen.jpg, id=272, 411.78844pt x 414.04688pt>
-File: figure/elemen.jpg Graphic file (type jpg)
- <use figure/elemen.jpg>
-Package pdftex.def Info: figure/elemen.jpg used on input line 50.
-(pdftex.def)             Requested size: 252.94499pt x 254.33089pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (18.0052pt too wide) in paragraph at lines 53--53
+[]\OT1/phv/b/n/17.28 Agricultural au-to-matic guid-ance re-search in North
+ []
 
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
@@ -2210,48 +2203,65 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 56.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [19 <./figure/control.jpg>] <figure/digit.jpg, id=281, 300.3722pt x 121.20282p
-t>
-File: figure/digit.jpg Graphic file (type jpg)
+ [13]
+<figure/elemen.jpg, id=547, 411.78844pt x 414.04688pt>
+File: figure/elemen.jpg Graphic file (type jpg)
+ <use figure/elemen.jpg>
+Package pdftex.def Info: figure/elemen.jpg used on input line 59.
+(pdftex.def)             Requested size: 252.94499pt x 254.33089pt.
 
-<use figure/digit.jpg>
-Package pdftex.def Info: figure/digit.jpg used on input line 59.
-(pdftex.def)             Requested size: 252.94499pt x 102.06857pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+<figure/digit.jpg, id=549, 300.3722pt x 121.20282pt>
+File: figure/digit.jpg Graphic file (type jpg)
+ <use figure/digit.jpg>
+Package pdftex.def Info: figure/digit.jpg used on input line 70.
+(pdftex.def)             Requested size: 252.94499pt x 102.06857pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 78.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [14 <./figure/control.jpg>]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
  <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 65.
+ on input line 78.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [15 <./figure/elemen.jpg> <./figure/digit.jpg>]
+Overfull \hbox (11.9575pt too wide) in paragraph at lines 79--79
+[]\OT1/phv/b/n/17.28 Variable Field-of-view Ma-chine Vision-Based Row
+ []
 
-[20 <./figure/elemen.jpg> <./figure/digit.jpg>]
+)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 187.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [16] (document.ptc)
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 69.
+ on input line 199.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [21])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 188.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [22] (document.ptc)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 202.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [23
+ [17
 
 
 
@@ -2259,51 +2269,65 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
 \openout2 = `theoretical_considerations.aux'.
 
 
-(theoretical_considerations.tex) (document.ptc)
+(theoretical_considerations.tex
+<figure/cob.jpg, id=576, 337.26pt x 258.2448pt>
+File: figure/cob.jpg Graphic file (type jpg)
+ <use figure/cob.jpg>
+Package pdftex.def Info: figure/cob.jpg used on input line 7.
+(pdftex.def)             Requested size: 214.67604pt x 164.3816pt.
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 213.
+ on input line 17.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [24
+ [18
 
+ <./figure/cob.jpg>] <figure/robot.png, id=587, 663.98062pt x 927.465pt>
+File: figure/robot.png Graphic file (type png)
+ <use figure/robot.png>
+Package pdftex.def Info: figure/robot.png used on input line 30.
+(pdftex.def)             Requested size: 180.67499pt x 252.37187pt.
+
+
+LaTeX Warning: Citation `agecon' on page 19 undefined on input line 37.
+
+)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 199.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [19]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 199.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [20 <./figure/robot.png>] (document.ptc)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 210.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+
+[21
 
 
 
 ]
 \openout2 = `design_considerations.aux'.
 
-
-(design_considerations.tex <figure/robot.png, id=313, 663.98062pt x 927.465pt>
-File: figure/robot.png Graphic file (type png)
-
-<use figure/robot.png>
-Package pdftex.def Info: figure/robot.png used on input line 7.
-(pdftex.def)             Requested size: 180.67499pt x 252.37187pt.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 15.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
-
-[25
-
- <./figure/robot.png>]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 31.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [26]
+ (design_considerations.tex
 ! Missing } inserted.
 <inserted text> 
                 }
-l.32 \end{itemize}
+l.21 \end{itemize}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2311,65 +2335,73 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-<figure/display.png, id=332, 246.1697pt x 324.46219pt>
+<figure/display.png, id=618, 246.1697pt x 324.46219pt>
 File: figure/display.png Graphic file (type png)
 
 <use figure/display.png>
-Package pdftex.def Info: figure/display.png used on input line 38.
+Package pdftex.def Info: figure/display.png used on input line 27.
 (pdftex.def)             Requested size: 180.67499pt x 238.1476pt.
 
-<figure/camera.png, id=333, 353.82187pt x 331.99031pt>
+<figure/camera.png, id=619, 353.82187pt x 331.99031pt>
 File: figure/camera.png Graphic file (type png)
  <use figure/camera.png>
-Package pdftex.def Info: figure/camera.png used on input line 45.
+Package pdftex.def Info: figure/camera.png used on input line 34.
 (pdftex.def)             Requested size: 180.67499pt x 169.53064pt.
 
-<figure/gpioexpansion.png, id=334, 562.35094pt x 324.46219pt>
+<figure/gpioexpansion.png, id=620, 562.35094pt x 324.46219pt>
 File: figure/gpioexpansion.png Graphic file (type png)
 
 <use figure/gpioexpansion.png>
-Package pdftex.def Info: figure/gpioexpansion.png used on input line 52.
+Package pdftex.def Info: figure/gpioexpansion.png used on input line 41.
 (pdftex.def)             Requested size: 180.67499pt x 104.24588pt.
 
-<figure/powerin.png, id=335, 571.38469pt x 362.85562pt>
+<figure/powerin.png, id=621, 571.38469pt x 362.85562pt>
 File: figure/powerin.png Graphic file (type png)
 
 <use figure/powerin.png>
-Package pdftex.def Info: figure/powerin.png used on input line 59.
+Package pdftex.def Info: figure/powerin.png used on input line 48.
 (pdftex.def)             Requested size: 180.67499pt x 114.73752pt.
- <figure/run.png, id=336, 569.12625pt x 360.59718pt>
+ <figure/run.png, id=622, 569.12625pt x 360.59718pt>
 File: figure/run.png Graphic file (type png)
 
 <use figure/run.png>
-Package pdftex.def Info: figure/run.png used on input line 66.
+Package pdftex.def Info: figure/run.png used on input line 55.
 (pdftex.def)             Requested size: 180.67499pt x 114.47456pt.
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
  <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 74.
+ on input line 63.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
 
-[27 <./figure/display.png>]
+[22
+
+]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 63.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [23 <./figure/display.png> <./figure/camera.png>]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 74.
+ on input line 63.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [28 <./figure/camera.png> <./figure/gpioexpansion.png> <./figure/powerin.png>]
-
-<figure/code.png, id=356, 192.72pt x 133.24782pt>
+ [24 <./figure/gpioexpansion.png> <./figure/powerin.png> <./figure/run.png>]
+<figure/code.png, id=649, 192.72pt x 133.24782pt>
 File: figure/code.png Graphic file (type png)
  <use figure/code.png>
-Package pdftex.def Info: figure/code.png used on input line 77.
+Package pdftex.def Info: figure/code.png used on input line 66.
 (pdftex.def)             Requested size: 192.71951pt x 133.24748pt.
 
 ! Illegal parameter number in definition of \reserved@a.
 <to be read again> 
                    !
-l.85 ... :1 -geometry 1920x1080 -depth 24 -dpi 96}
+l.74 ... :1 -geometry 1920x1080 -depth 24 -dpi 96}
                                                    is to be created. By inpu...
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -2378,7 +2410,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \reserved@b.
 <to be read again> 
                    }
-l.85 ... :1 -geometry 1920x1080 -depth 24 -dpi 96}
+l.74 ... :1 -geometry 1920x1080 -depth 24 -dpi 96}
                                                    is to be created. By inpu...
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -2387,7 +2419,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! You can't use `macro parameter character #' in horizontal mode.
 <recently read> ##
                   
-l.85 ... :1 -geometry 1920x1080 -depth 24 -dpi 96}
+l.74 ... :1 -geometry 1920x1080 -depth 24 -dpi 96}
                                                    is to be created. By inpu...
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -2398,63 +2430,56 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 87.
+ on input line 76.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [29 <./figure/run.png> <./figure/code.png>]
+ [25 <./figure/code.png>]
 Missing character: There is no ‚ in font ptmro7t!
 Missing character: There is no Ä in font ptmro7t!
 Missing character: There is no ì in font ptmro7t!
- <figure/Capture.jpg, id=368, 482.55281pt x 272.51813pt>
+ <figure/Capture.jpg, id=660, 482.55281pt x 272.51813pt>
 File: figure/Capture.jpg Graphic file (type jpg)
 
 <use figure/Capture.jpg>
-Package pdftex.def Info: figure/Capture.jpg used on input line 101.
+Package pdftex.def Info: figure/Capture.jpg used on input line 90.
 (pdftex.def)             Requested size: 214.67604pt x 121.23483pt.
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 107.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [30]
-<figure/Design.png, id=376, 401.8212pt x 376.7676pt>
+ <figure/Design.png, id=662, 401.8212pt x 376.7676pt>
 File: figure/Design.png Graphic file (type png)
- <use figure/Design.png>
-Package pdftex.def Info: figure/Design.png used on input line 112.
+
+<use figure/Design.png>
+Package pdftex.def Info: figure/Design.png used on input line 101.
 (pdftex.def)             Requested size: 214.67604pt x 201.28984pt.
-
-<figure/2.png, id=377, 722.7pt x 542.025pt>
+ <figure/2.png, id=663, 722.7pt x 542.025pt>
 File: figure/2.png Graphic file (type png)
- <use figure/2.png>
-Package pdftex.def Info: figure/2.png used on input line 119.
-(pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
 
-<figure/3.png, id=378, 722.7pt x 542.025pt>
+<use figure/2.png>
+Package pdftex.def Info: figure/2.png used on input line 108.
+(pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
+ <figure/3.png, id=664, 722.7pt x 542.025pt>
 File: figure/3.png Graphic file (type png)
- <use figure/3.png>
-Package pdftex.def Info: figure/3.png used on input line 126.
-(pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
 
-<figure/4.png, id=379, 722.7pt x 542.025pt>
+<use figure/3.png>
+Package pdftex.def Info: figure/3.png used on input line 115.
+(pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
+ <figure/4.png, id=665, 722.7pt x 542.025pt>
 File: figure/4.png Graphic file (type png)
- <use figure/4.png>
-Package pdftex.def Info: figure/4.png used on input line 127.
-(pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
 
-<figure/5.png, id=380, 722.7pt x 542.025pt>
+<use figure/4.png>
+Package pdftex.def Info: figure/4.png used on input line 116.
+(pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
+ <figure/5.png, id=666, 722.7pt x 542.025pt>
 File: figure/5.png Graphic file (type png)
- <use figure/5.png>
-Package pdftex.def Info: figure/5.png used on input line 134.
-(pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
 
-<figure/6.png, id=381, 722.7pt x 542.025pt>
+<use figure/5.png>
+Package pdftex.def Info: figure/5.png used on input line 123.
+(pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
+ <figure/6.png, id=667, 722.7pt x 542.025pt>
 File: figure/6.png Graphic file (type png)
- <use figure/6.png>
-Package pdftex.def Info: figure/6.png used on input line 135.
+
+<use figure/6.png>
+Package pdftex.def Info: figure/6.png used on input line 124.
 (pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
@@ -2462,46 +2487,47 @@ Missing character: There is no ô in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
-<figure/1.png, id=384, 722.7pt x 542.025pt>
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 130.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+
+[26 <./figure/Capture.jpg>]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 130.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [27 <./figure/Design.png> <./figure/2.png>] <figure/1.png, id=685, 722.7pt x 5
+42.025pt>
 File: figure/1.png Graphic file (type png)
- <use figure/1.png>
-Package pdftex.def Info: figure/1.png used on input line 145.
+
+<use figure/1.png>
+Package pdftex.def Info: figure/1.png used on input line 134.
 (pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 151.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [31 <./figure/Capture.jpg>]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
  <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 151.
+ on input line 140.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [32 <./figure/Design.png> <./figure/2.png>]
+
+[28 <./figure/3.png> <./figure/4.png>]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 151.
+ on input line 140.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [33 <./figure/3.png> <./figure/4.png>]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 151.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
-
-[34 <./figure/5.png> <./figure/6.png> <./figure/1.png>]
+ [29 <./figure/5.png> <./figure/6.png> <./figure/1.png>]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
@@ -2511,17 +2537,17 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 213.
+ on input line 210.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [35] (document.ptc)
+ [30] (document.ptc)
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 224.
+ on input line 221.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [36
+ [31
 
 
 
@@ -2534,15 +2560,27 @@ Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ¶ in font ptmr7t!
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 5.
+ on input line 12.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [37
+ [32
 
 ])
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
@@ -2550,63 +2588,284 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 224.
+ on input line 221.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [38]
+ [33] (document.ptc)
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 224.
+ on input line 233.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [39] (document.bbl
+ [34
+
+
+
+]
+\openout2 = `results_and_discussion.aux'.
+
+
+(results_and_discussion.tex
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+<figure/DAT3.png, id=723, 656.4525pt x 506.89375pt>
+File: figure/DAT3.png Graphic file (type png)
+ <use figure/DAT3.png>
+Package pdftex.def Info: figure/DAT3.png used on input line 9.
+(pdftex.def)             Requested size: 214.67604pt x 165.76721pt.
+
+<figure/DAT1.png, id=725, 274.02374pt x 322.20375pt>
+File: figure/DAT1.png Graphic file (type png)
+ <use figure/DAT1.png>
+Package pdftex.def Info: figure/DAT1.png used on input line 18.
+(pdftex.def)             Requested size: 214.67604pt x 252.4241pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 24.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [35
+
+ <./figure/DAT3.png>] <figure/DAT2.png, id=732, 507.8975pt x 308.15125pt>
+File: figure/DAT2.png Graphic file (type png)
+ <use figure/DAT2.png>
+Package pdftex.def Info: figure/DAT2.png used on input line 29.
+(pdftex.def)             Requested size: 180.67499pt x 109.6178pt.
+)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 233.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [36 <./figure/DAT1.png>]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 233.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [37 <./figure/DAT2.png>] (document.ptc)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 246.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+
+[38
+
+
+
+]
+\openout2 = `conclusions.aux'.
+
+ (conclusions.tex
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 37.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+
+[39
+
+])
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 246.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [40]
+(document.bbl
 bibitemlist
 )
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
  <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 264.
+ on input line 262.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [40
+ [41
 
 
+
+] (document.ptc
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 98.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [42
+
+
+])
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 273.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [43]
+\openout2 = `answers_to_questions.aux'.
+
+
+(answers_to_questions.tex
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 12.
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 21.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [44
 
 ]
-\tf@ptc=\write9
-\openout9 = `document.ptc'.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 306.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 306.
- (document.aux
-(introduction.aux) (literature_review.aux) (theoretical_considerations.aux)
-(design_considerations.aux) (methodology.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 306.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 306.
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 36.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [45]
+Overfull \hbox (5.68135pt too wide) in paragraph at lines 41--41
+[]\OT1/phv/b/n/14.4 What will be the lim-its of ap-pli-ca-bil-ity of your pro-p
+osed so-
+ []
+
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 51.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [46]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 71.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [47])
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 273.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [48]
+\openout2 = `vita.aux'.
+
+ (vita.tex
+<figure/pv.png, id=840, 120.45pt x 120.45pt>
+File: figure/pv.png Graphic file (type png)
+ <use figure/pv.png>
+Package pdftex.def Info: figure/pv.png used on input line 4.
+(pdftex.def)             Requested size: 85.8691pt x 85.87112pt.
+
+<figure/dan.jpg, id=841, 140.56516pt x 140.2038pt>
+File: figure/dan.jpg Graphic file (type jpg)
+ <use figure/dan.jpg>
+Package pdftex.def Info: figure/dan.jpg used on input line 8.
+(pdftex.def)             Requested size: 85.8691pt x 85.64825pt.
+
+<figure/kath.png, id=842, 813.0375pt x 813.0375pt>
+File: figure/kath.png Graphic file (type png)
+ <use figure/kath.png>
+Package pdftex.def Info: figure/kath.png used on input line 12.
+(pdftex.def)             Requested size: 85.8691pt x 85.86148pt.
+)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 294.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [49
+
+
+
+
+ <./figure/pv.png> <./figure/dan.jpg> <./figure/kath.png>]
+\tf@ptc=\write10
+\openout10 = `document.ptc'.
+
+
+
+! LaTeX Error: \begin{SingleSpace} on input line 121 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.304 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 304.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 304.
+(document.aux (introduction.aux) (literature_review.aux)
+(theoretical_considerations.aux) (design_considerations.aux) (methodology.aux)
+(results_and_discussion.aux) (conclusions.aux) (answers_to_questions.aux)
+(vita.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 304.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 304.
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: C4410C8E115B78BC4AEA2F5EA6CAE7C8;2101.
- ) 
+(rerunfilecheck)             Checksum: C56B351496F832B0453C059163A31E64;6554.
+
+
+LaTeX Warning: There were undefined references.
+
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 121 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 33274 strings out of 493634
- 573243 string characters out of 3134015
- 781252 words of memory out of 3000000
- 35681 multiletter control sequences out of 15000+200000
- 40065 words of font info for 180 fonts, out of 3000000 for 9000
+ 33486 strings out of 493634
+ 576315 string characters out of 3134015
+ 795437 words of memory out of 3000000
+ 35780 multiletter control sequences out of 15000+200000
+ 41814 words of font info for 183 fonts, out of 3000000 for 9000
  1033 hyphenation exceptions out of 8191
- 62i,14n,80p,1557b,493s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/DanPaulo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname
-/8r.enc}<C:/Users/DanPaulo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmsy10.pfb><C:/Users/DanPaulo/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/DanPaulo/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/DanPaulo/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/DanPaulo/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/DanPaulo/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/DanP
-aulo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on document.pdf (46 pages, 9711841 bytes).
+ 62i,14n,80p,1421b,626s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/DanPaulo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/
+dvips/fontname/8r.enc}<C:/Users/DanPaulo/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/DanPaulo/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/DanPaulo/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/DanPaulo/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/DanP
+aulo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Use
+rs/DanPaulo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
+<C:/Users/DanPaulo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr
+i8a.pfb>
+Output written on document.pdf (58 pages, 11930085 bytes).
 PDF statistics:
- 491 PDF objects out of 1000 (max. 8388607)
- 110 named destinations out of 1000 (max. 500000)
- 35193 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 913 PDF objects out of 1000 (max. 8388607)
+ 177 named destinations out of 1000 (max. 500000)
+ 36084 words of extra memory for PDF output out of 42996 (max. 10000000)
 
