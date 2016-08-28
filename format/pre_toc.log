@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.9)  18 AUG 2016 22:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.12)  28 AUG 2016 16:08
 entering extended mode
 **./pre_toc.ltx
 (pre_toc.ltx
@@ -806,7 +806,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[1{C:/Users/Katherine/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[1{C:/Users/DanPaulo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 ! Undefined control sequence.
 l.62 \ifGrad
             
@@ -3239,7 +3239,7 @@ and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
 l.267 				\noindent \ifGroupID
-                               with group number \groupID \fi \
+                               with group name \groupID \fi \
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3256,13 +3256,11 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no n in font nullfont!
-Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
 Missing character: There is no m in font nullfont!
-Missing character: There is no b in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
 ! Undefined control sequence.
-l.267 ...ent \ifGroupID with group number \groupID
+l.267 ...ndent \ifGroupID with group name \groupID
                                                    \fi \
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3271,7 +3269,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Extra \fi.
-l.267 ...\ifGroupID with group number \groupID \fi
+l.267 ...t \ifGroupID with group name \groupID \fi
                                                    \
 I'm ignoring this; it doesn't match any \if.
 
@@ -4056,7 +4054,7 @@ l.338 		\input{acknowledgment.tex}
  
 Here is how much of TeX's memory you used:
  24 strings out of 493634
- 279 string characters out of 3133608
+ 279 string characters out of 3134015
  57604 words of memory out of 3000000
  3504 multiletter control sequences out of 15000+200000
  4294 words of font info for 16 fonts, out of 3000000 for 9000

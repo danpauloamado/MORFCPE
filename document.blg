@@ -10,29 +10,103 @@ The style file: apalike.bst
 A level-1 auxiliary file: answers_to_questions.aux
 A level-1 auxiliary file: vita.aux
 Database file #1: references.bib
-Warning--entry type for "camers" isn't style-file defined
+Warning--entry type for "agecon" isn't style-file defined
 --line 3 of file references.bib
+Warning--entry type for "camers" isn't style-file defined
+--line 17 of file references.bib
 Warning--entry type for "cisco" isn't style-file defined
---line 10 of file references.bib
+--line 24 of file references.bib
 Warning--entry type for "Edan" isn't style-file defined
---line 22 of file references.bib
+--line 38 of file references.bib
 Warning--entry type for "Jean2003" isn't style-file defined
---line 56 of file references.bib
+--line 74 of file references.bib
 Warning--entry type for "Motes" isn't style-file defined
---line 63 of file references.bib
+--line 88 of file references.bib
 Warning--entry type for "vid" isn't style-file defined
---line 77 of file references.bib
+--line 156 of file references.bib
 Warning--entry type for "vnc" isn't style-file defined
---line 84 of file references.bib
+--line 163 of file references.bib
 Warning--entry type for "WorldBank" isn't style-file defined
---line 91 of file references.bib
-Warning--I didn't find a database entry for "agecon"
-Warning--to sort, need author or key in WorldBank
-Warning--empty year in WorldBank
+--line 170 of file references.bib
+Too many commas in name 1 of "Roberta V. Gerpacio, Jocelyn D. Labios, Romeo V. Labios, Emma I. Diangkinay" for entry Gerpacio2004
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "Roberta V. Gerpacio, Jocelyn D. Labios, Romeo V. Labios, Emma I. Diangkinay" for entry Gerpacio2004
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "Yoshisada Nagasaka, Katsuhiko Tamaki, Kentaro Nishiwaki, Masahiro Saito, Yutaka Kikuchi, Kota Motobayashi" for entry Nagasaka2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "Yoshisada Nagasaka, Katsuhiko Tamaki, Kentaro Nishiwaki, Masahiro Saito, Yutaka Kikuchi, Kota Motobayashi" for entry Nagasaka2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "Yoshisada Nagasaka, Katsuhiko Tamaki, Kentaro Nishiwaki, Masahiro Saito, Yutaka Kikuchi, Kota Motobayashi" for entry Nagasaka2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "Yoshisada Nagasaka, Katsuhiko Tamaki, Kentaro Nishiwaki, Masahiro Saito, Yutaka Kikuchi, Kota Motobayashi" for entry Nagasaka2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "Yoshisada Nagasaka, Katsuhiko Tamaki, Kentaro Nishiwaki, Masahiro Saito, Yutaka Kikuchi, Kota Motobayashi" for entry Nagasaka2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "Yoshisada Nagasaka, Katsuhiko Tamaki, Kentaro Nishiwaki, Masahiro Saito, Yutaka Kikuchi, Kota Motobayashi" for entry Nagasaka2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "K. Tamaki, Y. Nagasaka, K. Nishiwaki, M. Saito, Y. Kikuchi, K. Motobayashi" for entry Tamaki2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "K. Tamaki, Y. Nagasaka, K. Nishiwaki, M. Saito, Y. Kikuchi, K. Motobayashi" for entry Tamaki2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "K. Tamaki, Y. Nagasaka, K. Nishiwaki, M. Saito, Y. Kikuchi, K. Motobayashi" for entry Tamaki2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "K. Tamaki, Y. Nagasaka, K. Nishiwaki, M. Saito, Y. Kikuchi, K. Motobayashi" for entry Tamaki2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "K. Tamaki, Y. Nagasaka, K. Nishiwaki, M. Saito, Y. Kikuchi, K. Motobayashi" for entry Tamaki2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "K. Tamaki, Y. Nagasaka, K. Nishiwaki, M. Saito, Y. Kikuchi, K. Motobayashi" for entry Tamaki2013
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "C. Tu, B. J. van Wyk, K. Djouani, Y. Hamam and S. Du" for entry Tu2014
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "C. Tu, B. J. van Wyk, K. Djouani, Y. Hamam and S. Du" for entry Tu2014
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "John F. Reid, Qin Zhang, Noboru Noguchi, Monte Dickson" for entry Reid2000
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "John F. Reid, Qin Zhang, Noboru Noguchi, Monte Dickson" for entry Reid2000
+while executing---line 1020 of file apalike.bst
+Name 1 in "Jinlin Xue, Lei Zhang, and Tony E. Grift" has a comma at the end for entry Xue2012
+while executing---line 1020 of file apalike.bst
+Name 1 in "Jinlin Xue, Lei Zhang, and Tony E. Grift" has a comma at the end for entry Xue2012
+while executing---line 1020 of file apalike.bst
+Warning--empty journal in English2014
+Too many commas in name 1 of "C. Tu, B. J. van Wyk, K. Djouani, Y. Hamam and S. Du" for entry Tu2014
+while executing---line 1095 of file apalike.bst
+Warning--empty journal in Tu2014
 Warning--empty year in cisco
 Warning--empty year in Edan
+Warning--empty journal in Backman2011
+Name 1 in "Jinlin Xue, Lei Zhang, and Tony E. Grift" has a comma at the end for entry Xue2012
+while executing---line 1095 of file apalike.bst
+Warning--empty journal in Xue2012
+Too many commas in name 1 of "John F. Reid, Qin Zhang, Noboru Noguchi, Monte Dickson" for entry Reid2000
+while executing---line 1095 of file apalike.bst
+Warning--empty year in Reid2000
+Warning--empty journal in Reid2000
+Too many commas in name 1 of "K. Tamaki, Y. Nagasaka, K. Nishiwaki, M. Saito, Y. Kikuchi, K. Motobayashi" for entry Tamaki2013
+while executing---line 1095 of file apalike.bst
+Too many commas in name 1 of "K. Tamaki, Y. Nagasaka, K. Nishiwaki, M. Saito, Y. Kikuchi, K. Motobayashi" for entry Tamaki2013
+while executing---line 1095 of file apalike.bst
+Too many commas in name 1 of "K. Tamaki, Y. Nagasaka, K. Nishiwaki, M. Saito, Y. Kikuchi, K. Motobayashi" for entry Tamaki2013
+while executing---line 1095 of file apalike.bst
+Warning--empty journal in Tamaki2013
+Warning--empty journal in Keicher2000
 Warning--empty year in Motes
+Warning--empty journal in Hossein2013
+Warning--empty journal in Noguchi2011
+Warning--empty journal in Wu2010
 Warning--empty year in camers
 Warning--empty year in vnc
 Warning--empty year in vid
-(There were 17 warnings)
+Too many commas in name 1 of "Roberta V. Gerpacio, Jocelyn D. Labios, Romeo V. Labios, Emma I. Diangkinay" for entry Gerpacio2004
+while executing---line 1095 of file apalike.bst
+Warning--empty publisher in Gerpacio2004
+Warning--empty journal in Saraladevi2015
+Warning--empty journal in Torii2000
+Too many commas in name 1 of "Yoshisada Nagasaka, Katsuhiko Tamaki, Kentaro Nishiwaki, Masahiro Saito, Yutaka Kikuchi, Kota Motobayashi" for entry Nagasaka2013
+while executing---line 1095 of file apalike.bst
+Too many commas in name 1 of "Yoshisada Nagasaka, Katsuhiko Tamaki, Kentaro Nishiwaki, Masahiro Saito, Yutaka Kikuchi, Kota Motobayashi" for entry Nagasaka2013
+while executing---line 1095 of file apalike.bst
+Too many commas in name 1 of "Yoshisada Nagasaka, Katsuhiko Tamaki, Kentaro Nishiwaki, Masahiro Saito, Yutaka Kikuchi, Kota Motobayashi" for entry Nagasaka2013
+while executing---line 1095 of file apalike.bst
+Warning--empty journal in Nagasaka2013
+(There were 30 error messages)

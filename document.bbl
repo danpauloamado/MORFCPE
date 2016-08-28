@@ -1,7 +1,16 @@
 \begin{thebibliography}{}
 
-\bibitem[Wor, ]{WorldBank}
-Agriculture, value added (% of gdp).
+\bibitem[A.~English and Corke, 2014]{English2014}
+A.~English, P.~Boss, D.~B. and Corke, . (2014).
+\newblock Vision based guidance for robot navigation in agriculture.
+
+\bibitem[Briones, 2005]{agecon}
+Briones, N. (2005).
+\newblock Environmental sustainability.
+
+\bibitem[C.~Tu and Du, 2014]{Tu2014}
+C.~Tu, B. J. van~Wyk, K. D. Y.~H. and Du, S. (2014).
+\newblock An efficient crop row detection method for agriculture robots.
 
 \bibitem[Cisco, ]{cisco}
 Cisco.
@@ -15,10 +24,46 @@ du~Plessis, J. (2003).
 Edan, Y., Henten, E.~v., and Tuijl, B.~v.
 \newblock Agricultural robotics.
 
+\bibitem[J.~Backman, 2011]{Backman2011}
+J.~Backman, T.~Oksanen, A.~V. (2011).
+\newblock Navigation system for agricultural machines: Nonlinear model
+  predictive path tracking.
+
+\bibitem[Jinlin~Xue and Grift, 2012]{Xue2012}
+Jinlin~Xue, L.~Z. and Grift, T.~E. (2012).
+\newblock Variable field-of-view machine vision based row guidance of an
+  agricultural robot.
+
+\bibitem[John F.~Reid, ]{Reid2000}
+John F.~Reid, Qin~Zhang, N. N. M.~D.
+\newblock Agricultural automatic guidance research in north america.
+
+\bibitem[K.~Tamaki, 2013]{Tamaki2013}
+K.~Tamaki, Y.~Nagasaka, K. N. M. S. Y. K. K.~M. (2013).
+\newblock A robot system for paddy field farming in japan.
+
+\bibitem[Keicher and Seufert, 2000]{Keicher2000}
+Keicher, R. and Seufert, H. (2000).
+\newblock Automatic guidance for agricultural vehicles in europe.
+
 \bibitem[Motes, ]{Motes}
 Motes, W.
 \newblock Modern agriculture and its benefits -- trends, implications and
   outlook.
+
+\bibitem[Mousazadeh, 2013]{Hossein2013}
+Mousazadeh, H. (2013).
+\newblock A technical review on navigation systems of agricultural autonomous
+  off-road vehicles.
+
+\bibitem[Noboru~Noguchi, 2011]{Noguchi2011}
+Noboru~Noguchi, O. C. B.~J. (2011).
+\newblock Robot farming system using multiple robot tractors in japan
+  agriculture.
+
+\bibitem[Q.~Wu and Kumar, 2010]{Wu2010}
+Q.~Wu, W.~Zhang, T.~C. and Kumar, B. V. K.~V. (2010).
+\newblock Camera-based clear path detection.
 
 \bibitem[RaspberryPiFoundation, a]{camers}
 RaspberryPiFoundation.
@@ -31,5 +76,26 @@ RaspberryPiFoundation.
 \bibitem[RaspberryPiFoundation, c]{vid}
 RaspberryPiFoundation.
 \newblock What is raspberry pi?
+
+\bibitem[Roberta V.~Gerpacio, 2004]{Gerpacio2004}
+Roberta V.~Gerpacio, Jocelyn D.~Labios, R. V. L. E. I.~D. (2004).
+\newblock {\em Maize in the Philippines: Production Systems, Constraints, and
+  Research Priorities}.
+
+\bibitem[Saraladevi and Sedhumadhavan, 2015]{Saraladevi2015}
+Saraladevi, B. and Sedhumadhavan, S. (2015).
+\newblock Video streaming in autonomous mobile robot using wi-fi.
+
+\bibitem[Torii, 2000]{Torii2000}
+Torii, T. (2000).
+\newblock Research in autonomous agriculture vehicles in japan.
+
+\bibitem[WorldBank, 2014]{WorldBank}
+WorldBank (2014).
+\newblock Agriculture, value added (percent of gdp).
+
+\bibitem[Yoshisada~Nagasaka, 2013]{Nagasaka2013}
+Yoshisada~Nagasaka, Katsuhiko~Tamaki, K. N. M. S. Y. K. K.~M. (2013).
+\newblock A global positioning system guided automated rice transplanter.
 
 \end{thebibliography}
