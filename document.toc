@@ -33,7 +33,7 @@
 \contentsline {section}{\numberline {3.5}Philippine Agriculture}{26}{section.3.5}
 \contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Design Considerations}}{28}{chapter.4}
 \contentsline {section}{\numberline {4.1}Raspberry Pi 3 Model B}{29}{section.4.1}
-\contentsline {section}{\numberline {4.2}Raspberry Pi Camera Module}{30}{section.4.2}
+\contentsline {section}{\numberline {4.2}Raspberry Pi Camera Module}{32}{section.4.2}
 \contentsline {section}{\numberline {4.3}Virtual Network Computing}{32}{section.4.3}
 \contentsline {section}{\numberline {4.4}IP Address}{33}{section.4.4}
 \contentsline {section}{\numberline {4.5}Design Reference}{34}{section.4.5}

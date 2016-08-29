@@ -1,6 +1,6 @@
 % Encoding: windows-1252
 
-@Electronic{agecon,
+@Electronic{agecon2005,
   author = {Nicomedes Briones},
   title =  {Environmental Sustainability},
   year =   {2005},
@@ -8,7 +8,7 @@
 }
 
 @Article{Backman2011,
-  author =       {J. Backman, T. Oksanen, A. Visala},
+  author =       {J. Backman and T. Oksanen and A. Visala},
   title =        {Navigation system for agricultural machines: Nonlinear Model Predictive path tracking},
   journaltitle = {Computers and Electronics in Agriculture},
   year =         {2011}
@@ -43,7 +43,7 @@
 }
 
 @Article{English2014,
-  author =       {A. English, P. Boss, D. Ball and . Corke},
+  author =       {A. English and P. Boss and D. Ball and Corke},
   title =        {Vision based guidance for robot navigation in agriculture},
   journaltitle = {2014 IEEE International Conference on Robotics and Automation (ICRA)},
   year =         {2014},
@@ -52,7 +52,7 @@
 }
 
 @Book{Gerpacio2004,
-  author = {Roberta V. Gerpacio, Jocelyn D. Labios, Romeo V. Labios, Emma I. Diangkinay},
+  author = {Roberta V. Gerpacio and Jocelyn D. Labios and Romeo V. Labios and Emma I. Diangkinay},
   title =  {Maize in the Philippines: Production Systems, Constraints, and Research Priorities},
   year =   {2004}
 }
@@ -93,14 +93,23 @@
 }
 
 @Article{Nagasaka2013,
-  author =       {Yoshisada Nagasaka, Katsuhiko Tamaki, Kentaro Nishiwaki, Masahiro Saito, Yutaka Kikuchi, Kota Motobayashi},
+  author =       {Yoshisada Nagasaka and Katsuhiko Tamaki and Kentaro Nishiwaki and Masahiro Saito and Yutaka Kikuchi and Kota Motobayashi},
   title =        {A Global Positioning System guided automated rice transplanter},
   journaltitle = {4th IFAC Conference on Modelling and Control in Agriculture},
   year =         {2013}
 }
 
+@Article{NatGeo,
+  author =  {NationalGeographic},
+  title =   {Philippine Rice Terraces},
+  year =    {2016},
+  url =     {http://travel.nationalgeographic.com/travel/world-heritage/philippine-rice-terraces/},
+  journal = {n.a},
+  owner =   {National Geographic}
+}
+
 @Article{Noguchi2011,
-  author =       {Noboru Noguchi, Oscar C. Barawid Jr.},
+  author =       {Noboru Noguchi and Oscar C. Barawid Jr.},
   title =        {Robot Farming System Using Multiple Robot Tractors in Japan Agriculture},
   journaltitle = {Proceedings of the 18th World Congress},
   year =         {2011}
@@ -115,7 +124,7 @@ Or \LaTeXe in 157 minutes},
 }
 
 @Article{Reid2000,
-  author =       {John F. Reid, Qin Zhang, Noboru Noguchi, Monte Dickson},
+  author =       {John F. Reid and Qin Zhang and Noboru Noguchi and Monte Dickson},
   title =        {Agricultural automatic guidance research in North America},
   journaltitle = {Computers and Electronics in Agriculture},
   date =         {2000}
@@ -130,8 +139,16 @@ Or \LaTeXe in 157 minutes},
   keywords =     {collision avoidance;genetic algorithms;mobile robots;robot vision;video streaming;wireless LAN;IEEE 802.11 b;IEEE 802.11 g;IEEE 802.11 n;Wi-Fi;aggrandized genetic algorithm;autonomous Arduino Yun;autonomous mobile robot;four wheeled mobile robot;path finding;video streaming;Boards;IEEE 802.11 Standard;Microcontrollers;Mobile robots;Portable computers;Streaming media;Aggrandized Genetic Algorithm;Arduino Yun Board;Video Streaming;Wi-Fi}
 }
 
+@Manual{Schem,
+  author =  {James Adams},
+  title =   {Raspberry Pi 3 Model B (Reduced Schematics)},
+  year =    {2016},
+  edition = {First},
+  month =   {April}
+}
+
 @Article{Tamaki2013,
-  author =       {K. Tamaki, Y. Nagasaka, K. Nishiwaki, M. Saito, Y. Kikuchi, K. Motobayashi},
+  author =       {K. Tamaki and Y. Nagasaka and K. Nishiwaki and M. Saito and Y. Kikuchi and K. Motobayashi},
   title =        {A Robot System for Paddy Field Farming in Japan},
   journaltitle = {4th IFAC Conference on Modelling and Control in Agriculture},
   year =         {2013}
@@ -145,7 +162,7 @@ Or \LaTeXe in 157 minutes},
 }
 
 @Article{Tu2014,
-  author =       {C. Tu, B. J. van Wyk, K. Djouani, Y. Hamam and S. Du},
+  author =       {C. Tu and B. J. van Wyk and K. Djouani and Y. Hamam and S. Du},
   title =        {An efficient crop row detection method for agriculture robots},
   journaltitle = {Image and Signal Processing (CISP)},
   year =         {2014},
@@ -176,7 +193,7 @@ Or \LaTeXe in 157 minutes},
 }
 
 @Article{Wu2010,
-  author =       {Q. Wu, W. Zhang, T. Chen and B. V. K. Vijaya Kumar},
+  author =       {Q. Wu and W. Zhang and T. Chen and B. V. K. Vijaya Kumar},
   title =        {Camera-based clear path detection},
   journaltitle = {2010 IEEE International Conference on Acoustics},
   year =         {2010},
@@ -185,7 +202,7 @@ Or \LaTeXe in 157 minutes},
 }
 
 @Article{Xue2012,
-  author =       {Jinlin Xue, Lei Zhang, and Tony E. Grift},
+  author =       {Jinlin Xue and Lei Zhang and Tony E. Grift},
   title =        {Variable field-of-view machine vision based row guidance of an agricultural robot},
   journaltitle = {Computers and Electronics in Agriculture},
   year =         {2012}

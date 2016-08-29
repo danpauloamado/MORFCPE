@@ -1,9 +1,10 @@
 \section{Raspberry Pi 3 Model B}
 
-	Raspberry Pi is a low-cost microcomputer originally designed to aide young people in programming. It is advantageous in terms of size, portability, cost, programmability, and connectivity.~\cite{vid} Raspberry Pi is mounted on a credit card-sized board and has multiple feature ports such as USB 2.0, HDMI, Power, SD Card, and many more depending on the model.
+	Raspberry Pi is a low-cost microcomputer originally designed to aide young people in programming. It is advantageous in terms of size, portability, cost, programmability, and connectivity. Raspberry Pi is mounted on a credit card-sized board and has multiple feature ports such as USB 2.0, HDMI, Power, SD Card, and many more depending on the model.
 
 	On this research, Raspberry Pi 3 model B is used. Its features include:
 \begin{itemize}
+
 \item {A 1.2GHz 64-bit quad-core ARMv8 CPU}
 \item {802.11n Wireless LAN}
 \item {Bluetooth 4.1}
@@ -18,6 +19,7 @@
 \item {Display interface (DSI)}
 \item {Micro SD card slot (now push-pull rather than push-push)}
 \item {VideoCore IV 3D graphics core}
+}
 \end{itemize}
 
 Figures~\ref{fig:display},~\ref{fig:camera},~\ref{fig:gpioexpansion},~\ref{fig:powerin} and~\ref{fig:run} show the schematic diagrams essential to this research.
@@ -25,35 +27,35 @@ Figures~\ref{fig:display},~\ref{fig:camera},~\ref{fig:gpioexpansion},~\ref{fig:p
 \begin{figure}[!htbp]
 	\centering
 		\includegraphics[width=2.5 in]{display}
-	\caption{Schematic of Display}
+	\caption{Schematic of Display~\cite{Schem}}
 	\label{fig:display}
 \end{figure}
 
 \begin{figure}[!htbp]
 	\centering
 		\includegraphics[width=2.5 in]{camera}
-	\caption{Schematic of Camera Port}
+	\caption{Schematic of Camera Port~\cite{Schem}}
 	\label{fig:camera}
 \end{figure}
 
 \begin{figure}[!htbp]
 	\centering
 		\includegraphics[width=2.5 in]{gpioexpansion}
-	\caption{Schematic of GPIO Expansion}
+	\caption{Schematic of GPIO Expansion~\cite{Schem}}
 	\label{fig:gpioexpansion}
 \end{figure}
 
 \begin{figure}[!htbp]
 	\centering
 		\includegraphics[width=2.5 in]{powerin}
-	\caption{Schematic of Power Input}
+	\caption{Schematic of Power Input~\cite{Schem}}
 	\label{fig:powerin}
 \end{figure}
 
 \begin{figure}[!htbp]
 	\centering
 		\includegraphics[width=2.5 in]{run}
-	\caption{Schematic of RUN}
+	\caption{Schematic of RUN~\cite{Schem}}
 	\label{fig:run}
 \end{figure}
 
@@ -71,18 +73,13 @@ The PiCamera is a camera module for Raspberry Pi that allows the users to captur
 \section{Virtual Network Computing}
 Virtual Network Computing (VNC) is a graphical sharing system on a desktop that allows remote access and control of a desktop interface of on device from another. The events from the controller such as keyboard and mouse are transmitted to the screen over the network from the remote host. 
 	On the Raspberry Pi, it is necessary to install the TightVNC package in order to utilize this system. To install this package, the code  \textsl{sudo apt-get install tightvncserver} is used. Running the TightVNC Server would prompt the user to input the password \textsl{tightvncserver}. From the terminal, VNC is started. A session on VNC display one with full HD resolution is written as \textsl{vncserver :1 -geometry 1920x1080 -depth 24}.
-.	In order to run the VNC server on the Pi, a command on a file is necessary. The shell script \textsl{#!/bin/sh (next line) vncserver :1 -geometry 1920x1080 -depth 24 -dpi 96} is to be created. By inputting the code \textsl{chmod +x vnc.sh}, the shell script with filename vnc.sh is made executable. In order to run the file at any time, the code \textsl{./vnc.sh} is executed.
+.	In order to run the VNC server on the Pi, a command on a file is necessary. The shell script \textsl{\#!\/bin\/sh (next line) vncserver :1 -geometry 1920x1080 -depth 24 -dpi 96} is to be created. By inputting the code \textsl{chmod +x vnc.sh}, the shell script with filename vnc.sh is made executable. In order to run the file at any time, the code \textsl{.\/vnc.sh} is executed.
 	The procedure mentioned above is the initialization of VNC on the Pi module. With this, a VNC client on the personal computer is needed in order to connect the computer to the VNC server and have control of it.~\cite{vnc}
 	
 \section{IP Address}
 	Internet Protocol (IP) Address is an address that is used to identify a unique device over an IP network. It is a core in network design as it is a Network Foundation service. It provides the foundation of other network and user services and it allows the interaction of devices within the network.~\cite{cisco}
 	Raspberry Pi 3 model B is connected to a Local Area Network. Hence, as any device connected to a LAN, Pi is assigned a unique IP address. IP address is vital information in connecting the Pi to another machine using VNC. The code \textsl{hostname –I} reveals the IP Address of the Pi using the terminal.
 		
-
-
-
-
-
 \section{Design Reference}
 
 \begin{figure}[!htbp]
@@ -92,7 +89,7 @@ Virtual Network Computing (VNC) is a graphical sharing system on a desktop that 
 	\label{fig:reference}
 \end{figure}
 
-Figure \ref{fig:reference} shows the researchers’ design reference for the corn planting robot. The design was found online\footnote{youtu.be/QooHpnYLj1w} which is uploaded by user named Luthfi Hasni. The design uses a PIC or a Programmable Integrated Circuit to control the robot. It uses several sensors as its navigation system. Besides from the 2 motors that controls the wheels of the robot, it has a third motor that controls the boring of the soil and the sowing of the cord seeds at the same time. 
+Figure \ref{fig:reference} shows the researchers' design reference for the corn planting robot. The design was found online\footnote{youtu.be/QooHpnYLj1w} which is uploaded by user named Luthfi Hasni. The design uses a PIC or a Programmable Integrated Circuit to control the robot. It uses several sensors as its navigation system. Besides from the 2 motors that controls the wheels of the robot, it has a third motor that controls the boring of the soil and the sowing of the cord seeds at the same time. 
 
 \section{Design and Dimensions}
 
@@ -136,6 +133,6 @@ Portability is one of the main considerations of the robot’s design. Figures \
 	\label{fig:4}
 \end{figure}
 
-As seen on Figure \ref{fig:4}, part B is the continuous track of the robot. The researchers chose to use a continuous track for the robot since it is more suitable to be used on off-road environments on which corn in planted. The continuous track will help on the slip of the robot on the soil and help with the mobility of the robot.  The robot uses a 6V DC geared motor which controls the continuous track (B) which makes the robot move. Two 7.4 V battery packs (D) that is connected in parallel is used to supply voltage to the motors.  The motors and the battery packs (D) are then connected to the motor driver shield (E) which controls the direction of the motors individually thereby controls the movement of the whole robot. The motor driver shield is connected to the Raspberry Pi 3 Model B (F). The Raspberry Pi is the main processing unit of the robot. It is responsible for the image processing, remote connection, and the control of the motor driver shield (E). For the image processing, the researchers’ used the Raspberry Pi Camera v2.1 (A). We used the Raspberry Pi Camera for it allows the robot to utilize the GPU (Graphical Processing Unit) of the Raspberry Pi, which makes the image processing faster and decrease the processing load on the main processing unit. Lastly, the Raspberry Pi is then powered separately by a power bank.
+As seen on Figure \ref{fig:4}, part B is the continuous track of the robot. The researchers chose to use a continuous track for the robot since it is more suitable to be used on off-road environments on which corn in planted. The continuous track will help on the slip of the robot on the soil and help with the mobility of the robot.  The robot uses a 6V DC geared motor which controls the continuous track (B) which makes the robot move. Two 7.4 V battery packs (D) that is connected in parallel is used to supply voltage to the motors.  The motors and the battery packs (D) are then connected to the motor driver shield (E) which controls the direction of the motors individually thereby controls the movement of the whole robot. The motor driver shield is connected to the Raspberry Pi 3 Model B (F). The Raspberry Pi is the main processing unit of the robot. It is responsible for the image processing, remote connection, and the control of the motor driver shield (E). For the image processing, the researchers' used the Raspberry Pi Camera v2.1 (A). We used the Raspberry Pi Camera for it allows the robot to utilize the GPU (Graphical Processing Unit) of the Raspberry Pi, which makes the image processing faster and decrease the processing load on the main processing unit. Lastly, the Raspberry Pi is then powered separately by a power bank.
 
-	The researchers’ decided to use the Raspberry Pi instead of PIC or Arduino and other development boards due to its high processing ability, especially on image processing. PIC and Arduino are more suitable for applications that uses analog sensors or is more focused on hardware projects while the Raspberry Pi is more suitable for software processing. Since the corn planting robot would use computer vision to navigate across the corn field, the Raspberry Pi is more suitable for this kind of application. With a dedicated camera module that is directly compatible and can be easily set up, and a GPU or a Graphical Processing Unit, the Raspberry Pi can do image processing a lot faster which would allow the robot to do real time image processing and navigate across the field at the same time.
+	The researchers' decided to use the Raspberry Pi instead of PIC or Arduino and other development boards due to its high processing ability, especially on image processing. PIC and Arduino are more suitable for applications that uses analog sensors or is more focused on hardware projects while the Raspberry Pi is more suitable for software processing. Since the corn planting robot would use computer vision to navigate across the corn field, the Raspberry Pi is more suitable for this kind of application. With a dedicated camera module that is directly compatible and can be easily set up, and a GPU or a Graphical Processing Unit, the Raspberry Pi can do image processing a lot faster which would allow the robot to do real time image processing and navigate across the field at the same time.

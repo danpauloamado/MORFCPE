@@ -76,7 +76,7 @@
 
 \newcommand{\keywords}{Robot, System, RaspberryPi, Agriculture, Philippines}
 
-\newcommand{\approvalDate}{August~18,~\the\year} % put here the date when all examiners and/or their approved representative have given their approval; do not remove the tildes in order to not break the date; the submission deadline can also be placed as the date
+\newcommand{\approvalDate}{April~27,~\the\year} % put here the date when all examiners and/or their approved representative have given their approval; do not remove the tildes in order to not break the date; the submission deadline can also be placed as the date
 
 \hyphenation{op-tical net-works semi-conduc-tor evi-dent re-la-tive re-si-den-tial po-la-ri-za-tion so-lu-tion/s} % for correcting bad hyphenation
 
@@ -104,8 +104,8 @@ methodology,
 results_and_discussion,
 conclusions,
 answers_to_questions,
-usage_examples,
-publication,
+%usage_examples,
+%publication,
 vita,
 }
 
@@ -123,11 +123,11 @@ vita,
 \cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\listoffigures %---------------------------------------LIST OF FIGURES
+%\listoffigures
 %\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\listoftables %---------------------------------------LIST OF TABLES
+%\listoftables
 %\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -137,7 +137,8 @@ vita,
 	%\printterms[database=abbreviation, style=indexalign, prelocation=dotfill, location=first, columns=1, postname=\hspace{3em}]
 	%\thispagestyle{plain}
 %}	
-%\cleardoublepage %---------------------------------------Abbreviations
+%\cleardoublepage
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\phantomsection
 %\addcontentsline{toc}{chapter}{Notation}
@@ -163,7 +164,7 @@ vita,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\lstlistoflistings
 %\cleardoublepage
-%\end{SingleSpace}
+\end{SingleSpace}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \pagenumbering{arabic} % arabic page numbering starts here
@@ -173,9 +174,7 @@ vita,
 \begin{SingleSpace}	
 	\Mprintcontents  % for creating an actual mini TOC for this chapter
 \end{SingleSpace}
-\begin{DoubleSpace}
 \include{introduction}
-\end{DoubleSpace}	
 \stopcontents[chapters]
 \cleardoublepage
 
@@ -186,9 +185,7 @@ vita,
 \begin{SingleSpace}	
 	\Mprintcontents 
 \end{SingleSpace}
-\begin{DoubleSpace}
 \include{literature_review}
-\end{DoubleSpace}
 \stopcontents[chapters]
 \cleardoublepage
 
@@ -200,9 +197,7 @@ vita,
 \begin{SingleSpace}	
 	\Mprintcontents 
 \end{SingleSpace}
-\begin{DoubleSpace}
 \include{theoretical_considerations}
-\end{DoubleSpace}
 \stopcontents[chapters]
 \cleardoublepage
 
@@ -213,9 +208,7 @@ vita,
 \begin{SingleSpace}	
 	\Mprintcontents 
 \end{SingleSpace}
-\begin{DoubleSpace}
 \include{design_considerations}
-\end{DoubleSpace}
 \stopcontents[chapters]
 \cleardoublepage
 
@@ -226,9 +219,7 @@ vita,
 \begin{SingleSpace}	
 	\Mprintcontents 
 \end{SingleSpace}
-\begin{DoubleSpace}
 \include{methodology}
-\end{DoubleSpace}
 \stopcontents[chapters]
 \cleardoublepage
 
@@ -240,9 +231,7 @@ vita,
 	\begin{SingleSpace}	
 		\Mprintcontents 
 	\end{SingleSpace}
-	\begin{DoubleSpace}
 	\include{results_and_discussion}
-	\end{DoubleSpace}
 	\stopcontents[chapters]
 	\cleardoublepage
 \fi
@@ -255,17 +244,15 @@ vita,
 	\begin{SingleSpace}	
 		\Mprintcontents 
 	\end{SingleSpace}
-	\begin{DoubleSpace}
 	\include{conclusions}
-	\end{DoubleSpace}
 	\stopcontents[chapters]
 	\cleardoublepage
 \fi
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \renewcommand{\UrlFont}{\normalfont}
-%\bibliographystyle{IEEEtr} % for IEEE referencing format
-\bibliographystyle{apalike} % for APA referencing format
+\bibliographystyle{IEEEtr} % for IEEE referencing format
+%\bibliographystyle{apalike} % for APA referencing format
 \begin{SingleSpace}
 	{\small \bibliography{references}}
 \end{SingleSpace}
@@ -291,17 +278,17 @@ Produced: \usdate\today, \currenttime \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\chapter{Usage Examples} 
 %\label{ch:usage_examples}
-%% \startcontents[chapters]
-%% \Mprintcontents  
+% \startcontents[chapters]
+% \Mprintcontents  
 %\include{usage_examples}
-%% \stopcontents[chapters]
-%\cleardoublepage
+% \stopcontents[chapters]
+\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\ifPubList
+\ifPubList
 	%\include{publication}
-%\fi
-%\cleardoublepage
+\fi
+\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \ifVita
@@ -310,9 +297,9 @@ Produced: \usdate\today, \currenttime \\
 \cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\ifIndex
-	%\printindex
-%\fi
-%\cleardoublepage
+\ifIndex
+%	\printindex
+\fi
+\cleardoublepage
 
 \end{document}
