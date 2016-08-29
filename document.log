@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.12)  29 AUG 2016 15:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.12)  29 AUG 2016 15:45
 entering extended mode
 **./document.tex
 (document.tex
@@ -2334,14 +2334,11 @@ File: figure/robot.png Graphic file (type png)
  <use figure/robot.png>
 Package pdftex.def Info: figure/robot.png used on input line 30.
 (pdftex.def)             Requested size: 180.67499pt x 252.37187pt.
-
-
-LaTeX Warning: Citation `Briones' on page 26 undefined on input line 37.
-
 )
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 200.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
@@ -2379,33 +2376,33 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  [29
 
 ]
-<figure/display.png, id=685, 246.1697pt x 324.46219pt>
+<figure/display.png, id=687, 246.1697pt x 324.46219pt>
 File: figure/display.png Graphic file (type png)
 
 <use figure/display.png>
 Package pdftex.def Info: figure/display.png used on input line 29.
 (pdftex.def)             Requested size: 180.67499pt x 238.1476pt.
 
-<figure/camera.png, id=688, 353.82187pt x 331.99031pt>
+<figure/camera.png, id=690, 353.82187pt x 331.99031pt>
 File: figure/camera.png Graphic file (type png)
  <use figure/camera.png>
 Package pdftex.def Info: figure/camera.png used on input line 36.
 (pdftex.def)             Requested size: 180.67499pt x 169.53064pt.
 
-<figure/gpioexpansion.png, id=691, 562.35094pt x 324.46219pt>
+<figure/gpioexpansion.png, id=693, 562.35094pt x 324.46219pt>
 File: figure/gpioexpansion.png Graphic file (type png)
 
 <use figure/gpioexpansion.png>
 Package pdftex.def Info: figure/gpioexpansion.png used on input line 43.
 (pdftex.def)             Requested size: 180.67499pt x 104.24588pt.
 
-<figure/powerin.png, id=694, 571.38469pt x 362.85562pt>
+<figure/powerin.png, id=696, 571.38469pt x 362.85562pt>
 File: figure/powerin.png Graphic file (type png)
 
 <use figure/powerin.png>
 Package pdftex.def Info: figure/powerin.png used on input line 50.
 (pdftex.def)             Requested size: 180.67499pt x 114.73752pt.
- <figure/run.png, id=697, 569.12625pt x 360.59718pt>
+ <figure/run.png, id=699, 569.12625pt x 360.59718pt>
 File: figure/run.png Graphic file (type png)
 
 <use figure/run.png>
@@ -2427,7 +2424,7 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 62.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [31 <./figure/gpioexpansion.png> <./figure/powerin.png> <./figure/run.png>]
-<figure/code.png, id=721, 192.72pt x 133.24782pt>
+<figure/code.png, id=723, 192.72pt x 133.24782pt>
 File: figure/code.png Graphic file (type png)
  <use figure/code.png>
 Package pdftex.def Info: figure/code.png used on input line 68.
@@ -2443,7 +2440,7 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
 Missing character: There is no â in font ptmro7t!
 Missing character: There is no € in font ptmro7t!
 Missing character: There is no “ in font ptmro7t!
- <figure/Capture.jpg, id=732, 482.55281pt x 272.51813pt>
+ <figure/Capture.jpg, id=734, 482.55281pt x 272.51813pt>
 File: figure/Capture.jpg Graphic file (type jpg)
 
 <use figure/Capture.jpg>
@@ -2457,37 +2454,37 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 93.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [33]
-<figure/Design.png, id=741, 401.8212pt x 376.7676pt>
+<figure/Design.png, id=743, 401.8212pt x 376.7676pt>
 File: figure/Design.png Graphic file (type png)
  <use figure/Design.png>
 Package pdftex.def Info: figure/Design.png used on input line 98.
 (pdftex.def)             Requested size: 214.67604pt x 201.28984pt.
 
-<figure/2.png, id=742, 722.7pt x 542.025pt>
+<figure/2.png, id=744, 722.7pt x 542.025pt>
 File: figure/2.png Graphic file (type png)
  <use figure/2.png>
 Package pdftex.def Info: figure/2.png used on input line 105.
 (pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
 
-<figure/3.png, id=743, 722.7pt x 542.025pt>
+<figure/3.png, id=745, 722.7pt x 542.025pt>
 File: figure/3.png Graphic file (type png)
  <use figure/3.png>
 Package pdftex.def Info: figure/3.png used on input line 112.
 (pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
 
-<figure/4.png, id=744, 722.7pt x 542.025pt>
+<figure/4.png, id=746, 722.7pt x 542.025pt>
 File: figure/4.png Graphic file (type png)
  <use figure/4.png>
 Package pdftex.def Info: figure/4.png used on input line 113.
 (pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
 
-<figure/5.png, id=745, 722.7pt x 542.025pt>
+<figure/5.png, id=747, 722.7pt x 542.025pt>
 File: figure/5.png Graphic file (type png)
  <use figure/5.png>
 Package pdftex.def Info: figure/5.png used on input line 120.
 (pdftex.def)             Requested size: 214.67604pt x 161.00424pt.
 
-<figure/6.png, id=746, 722.7pt x 542.025pt>
+<figure/6.png, id=748, 722.7pt x 542.025pt>
 File: figure/6.png Graphic file (type png)
  <use figure/6.png>
 Package pdftex.def Info: figure/6.png used on input line 121.
@@ -2512,7 +2509,7 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 128.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [35 <./figure/Design.png> <./figure/2.png>] <figure/1.png, id=764, 722.7pt x 5
+ [35 <./figure/Design.png> <./figure/2.png>] <figure/1.png, id=766, 722.7pt x 5
 42.025pt>
 File: figure/1.png Graphic file (type png)
 
@@ -2619,7 +2616,7 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
 
-<figure/DAT3.png, id=805, 656.4525pt x 506.89375pt>
+<figure/DAT3.png, id=807, 656.4525pt x 506.89375pt>
 File: figure/DAT3.png Graphic file (type png)
  <use figure/DAT3.png>
 Package pdftex.def Info: figure/DAT3.png used on input line 9.
@@ -2628,7 +2625,7 @@ Package pdftex.def Info: figure/DAT3.png used on input line 9.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figure/DAT1.png, id=807, 274.02374pt x 322.20375pt>
+<figure/DAT1.png, id=809, 274.02374pt x 322.20375pt>
 File: figure/DAT1.png Graphic file (type png)
  <use figure/DAT1.png>
 Package pdftex.def Info: figure/DAT1.png used on input line 18.
@@ -2653,7 +2650,7 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
  on input line 26.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [45 <./figure/DAT3.png>] <figure/DAT2.png, id=818, 507.8975pt x 308.15125pt>
+ [45 <./figure/DAT3.png>] <figure/DAT2.png, id=820, 507.8975pt x 308.15125pt>
 File: figure/DAT2.png Graphic file (type png)
  <use figure/DAT2.png>
 Package pdftex.def Info: figure/DAT2.png used on input line 29.
@@ -2712,7 +2709,7 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 81.
+ on input line 80.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [51
 
@@ -2804,19 +2801,19 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
 \openout2 = `vita.aux'.
 
  (vita.tex
-<figure/pv.png, id=931, 120.45pt x 120.45pt>
+<figure/pv.png, id=933, 120.45pt x 120.45pt>
 File: figure/pv.png Graphic file (type png)
  <use figure/pv.png>
 Package pdftex.def Info: figure/pv.png used on input line 4.
 (pdftex.def)             Requested size: 85.8691pt x 85.87112pt.
 
-<figure/dan.jpg, id=932, 140.56516pt x 140.2038pt>
+<figure/dan.jpg, id=934, 140.56516pt x 140.2038pt>
 File: figure/dan.jpg Graphic file (type jpg)
  <use figure/dan.jpg>
 Package pdftex.def Info: figure/dan.jpg used on input line 8.
 (pdftex.def)             Requested size: 85.8691pt x 85.64825pt.
 
-<figure/kath.png, id=933, 813.0375pt x 813.0375pt>
+<figure/kath.png, id=935, 813.0375pt x 813.0375pt>
 File: figure/kath.png Graphic file (type png)
  <use figure/kath.png>
 Package pdftex.def Info: figure/kath.png used on input line 12.
@@ -2850,17 +2847,13 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 305.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 305.
 Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 9EEBC1630897F33C54AA3CB3DEC96C2C;6553.
-
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 33598 strings out of 493634
- 577765 string characters out of 3134015
- 795732 words of memory out of 3000000
+ 33602 strings out of 493634
+ 577801 string characters out of 3134015
+ 795726 words of memory out of 3000000
  35830 multiletter control sequences out of 15000+200000
- 49820 words of font info for 219 fonts, out of 3000000 for 9000
+ 49939 words of font info for 221 fonts, out of 3000000 for 9000
  1033 hyphenation exceptions out of 8191
  62i,14n,80p,1419b,578s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/DanPaulo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname
@@ -2872,9 +2865,9 @@ ograms/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/DanPaulo/AppData/L
 ocal/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/DanPaulo/Ap
 pData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/DanP
 aulo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on document.pdf (69 pages, 11847724 bytes).
+Output written on document.pdf (69 pages, 11846594 bytes).
 PDF statistics:
- 1009 PDF objects out of 1200 (max. 8388607)
- 203 named destinations out of 1000 (max. 500000)
+ 1011 PDF objects out of 1200 (max. 8388607)
+ 204 named destinations out of 1000 (max. 500000)
  42228 words of extra memory for PDF output out of 42996 (max. 10000000)
 
